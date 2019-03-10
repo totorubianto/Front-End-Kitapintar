@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2045 480">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #64b257;
+      }
+
+      .cls-1 {
+        font-size: 403px;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 366px;
+      }
+    </style>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(933 3612)">
+    <text id="itaPintar" class="cls-1" transform="translate(-507 -3219)"><tspan x="0" y="0">itaPintar</tspan></text>
+    <rect id="Rectangle_29" data-name="Rectangle 29" class="cls-2" width="396" height="396" rx="53" transform="translate(-933 -3570)"/>
+    <text id="K" class="cls-3" transform="translate(-868 -3233)"><tspan x="0" y="0">K</tspan></text>
+  </g>
+</svg>

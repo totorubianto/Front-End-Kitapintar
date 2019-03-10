@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/gridku.css">
+    <link rel="stylesheet" href="assets/wygs.css">
+    <script type="text/javascript" href="assets/jquery.js"></script>
+    <title>Kita Pintar</title>
+</head>
+<body>
+    
+    <nav class="navbar">
+        <div class="container navbar-padding">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <img src="assets/icon/logo.svg" alt="Kita Pintar" width="112" height="28">
+                </a>
+                <div class="navbar-burger burger" data-target="">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div id="" class="navbar-menu">
+                <div class="navbar-start">
+                    <div class="navbar-item">
+                        <form>
+                            <div class="control">
+                                <input class="input search-header" type="text" placeholder="search">
+                            </div>
+                        </form>
+                    </div>
+                    <a class="navbar-item" href="index.html">
+                        Beranda
+                    </a>
+                    <a class="navbar-item" href="pertanyaan.html">
+                        Daftar Pertanyaan
+                    </a>
+                </div>
+                
+                <div class="navbar-end">
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <i><img width="20px" src="assets/img/notification.svg"></i>
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="#">
+                                Tugas
+                            </a>
+                            <a class="navbar-item" href="catatan_guru.html">
+                                Catatan Guru
+                            </a>
+                            <a class="navbar-item is-active" href="#">
+                                Ulangan
+                            </a>
+                        </div>
+                    </div>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <img class="rounded" src="assets/student/grid/p_akbar.jpg" />
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="profile.html">
+                                Profile
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Bantuan
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Peraturan
+                            </a>
+                            <hr class="navbar-divider">
+                            <a class="navbar-item" href="login.html">
+                                Logout
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="grey-color">
+        <div class="container">
+            <section class="padding-top-20 padding-bottom-100">
+                <div class="row no-5-margin no-5-margin padding-top-30">
+                    <div class="grid-4">
+                        <h1 class="text-title margin-top-2">Buat Ulangan</h1>
+                        <div class="panel border margin-top-10">
+                            <div class="margin-20">
+                                <h2 class="text-title">General</h2>
+                                <div class="flex margin-top-10">
+                                    <input type="text" class="input border" placeholder="Judul Ulangan">
+                                </div> 
+                                <div class="flex margin-top-10">
+                                    <textarea name="" id=""  rows="4" placeholder="Deskripsi Ulangan" class="textarea border"></textarea>
+                                </div>  
+                                <div class="flex margin-top-10">
+                                    <input type="text" class="input border" placeholder="Kelas">
+                                </div> 
+                                <div class="flex margin-top-10 margin-bottom-20">
+                                    <input type="text" class="input border" placeholder="Durasi" style="width:70%;">
+                                    <input type="disable" class="input border grey-color" placeholder="Menit" disabled style="width:50%;">
+                                    <input type="text" class="input border margin-left-20" placeholder="Deadline">
+                                </div>
+                                <h1 class="text-title padding-bottom-10">Tampilan</h1>
+                                <div class="flex flex-wrap panel border padding-10">
+                                    <div class="color-pick w1"></div>
+                                    <div class="color-pick w2"></div>
+                                    <div class="color-pick w3"></div>
+                                    <div class="color-pick w4"></div>
+                                    <div class="color-pick w5"></div>
+                                    <div class="color-pick w6"></div>
+                                    <div class="color-pick w7"></div>
+                                    <div class="color-pick w8"></div>
+                                    <div class="color-pick w9"></div>
+                                    <div class="color-pick w10"></div>
+                                    <div class="color-pick w11"></div>
+                                </div>
+                                <button class="button basic full-width margin-top-10">Buat Ulangan</button>                       
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-8">
+                        <div class="panel border margin-top-30">
+                            <div class="margin-20">
+                                <div class="tabs">
+                                    <ul>
+                                        <li class="is-active"><a>Pilihan Ganda</a></li>
+                                        <li><a>Essay</a></li>
+                                    </ul> 
+                                    <!-- <p class="yellow-bg text-normal-1 text-center-vertical padding-10" style="border-radius:11px;">2 Soal</p> -->
+                                </div>
+                                <h2 class="text-title text-primary-color margin-top-20">Soal No 1</h2>
+                                <div class="editor-controls margin-top-10">
+                                    <a href='#' >B</a>
+                                    <a href='#' >I</a>
+                                    <a href='#' >U</a>
+                                    <a href='#' ><i class="menu-left"></i></a>
+                                    <a href='#' ><i class="menu-center"></i></a>
+                                    <a href='#' ><i class="menu-right"></i></a>
+                                </div>
+                                <textarea class="textarea editor-content" name="" id="" cols="30" rows="4" placeholder="Tulis Soal"></textarea>      
+                            </div>
+                            
+                            <div class="grid-12">
+                                <div class="margin-left-80 margin-bottom-40">
+                                    <div class="editor-controls">
+                                        <div class="flex space-bethwen">  
+                                            <span class="text-red-color text-normal padding-10 ">Jawaban A</span>
+                                            <label class="label--checkbox padding-top-10">
+                                                <input type="checkbox" class="checkbox">
+                                                <span class="padding-10 text-normal" style="margin-top: -10px;">Set Jawaban Benar</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <textarea class="textarea editor-content" name="" id="" cols="30" rows="4" placeholder="Tulis Soal"></textarea>      
+                                </div>
+                            </div> 
+                            
+                            <div class="grid-12">
+                                <div class="margin-left-80 margin-bottom-40">
+                                    <div class="editor-controls">
+                                        <div class="flex space-bethwen">  
+                                            <span class="text-red-color text-normal padding-10 ">Jawaban C</span>
+                                            <label class="label--checkbox padding-top-10">
+                                                <input type="checkbox" class="checkbox">
+                                                <span class="padding-10 text-normal" style="margin-top: -10px;">Set Jawaban Benar</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <textarea class="textarea editor-content" name="" id="" cols="30" rows="4" placeholder="Tulis Soal"></textarea>      
+                                </div>
+                            </div> 
+                            
+                            <div class="grid-12">
+                                <div class="margin-left-80 margin-bottom-40">
+                                    <div class="editor-controls">
+                                        <div class="flex space-bethwen">  
+                                            <span class="text-red-color text-normal padding-10 ">Jawaban D</span>
+                                            <label class="label--checkbox padding-top-10">
+                                                <input type="checkbox" class="checkbox">
+                                                <span class="padding-10 text-normal" style="margin-top: -10px;">Set Jawaban Benar</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <textarea class="textarea editor-content" name="" id="" cols="30" rows="4" placeholder="Tulis Soal"></textarea>      
+                                </div>
+                            </div> 
+                            
+                            
+                            <div class="padding-20"><a href="group.html" class="button basic-ghost full-width ">Tambah Soal</a></div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+    <div class="footer">
+        <div class="container">
+            <div class="row  padding-top-30 padding-bottom-30">
+                <div class="grid-4"> <h2 class="font-color-white">KitaPintar</h2>
+                    <p class="font-biasa font-color-white margin-top-10 ">KitaPintar merupakan website yang berfokus pada layanan pendidikan dengan memanfaatkan perkembangan teknologi.</p></div>
+                    <div class="grid-2">
+                        <p class="margin-top-10 font-color-white font-biasa">Tentang</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Carier</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Blog</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Ruang Berita</p>
+                    </div>
+                    <div class="grid-3">
+                        <p class="margin-top-10 font-color-white font-biasa">Komunitas</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Privacy</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Syarat dan Ketentuan</p>
+                        <p class="margin-top-10 font-color-white font-biasa">Partner</p>
+                    </div>
+                    <div class="grid-3"></div>
+                </div>
+                
+            </div>
+            <div class="footer-back padding-10 flex flex-center">
+                <h4 class="font-color-white">© Copyright 2018 KitaPintar</h4>
+            </div>
+        </div>
+    </body>
+    </html>

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/gridku.css">
+    <link rel="stylesheet" href="assets/wygs.css">
+    <script type="text/javascript" href="assets/jquery.js"></script>
+    <title>Kita Pintar</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container navbar-padding">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <img src="assets/icon/logo.svg" alt="Kita Pintar" width="112" height="28">
+                </a>
+                <div class="navbar-burger burger" data-target="">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div id="" class="navbar-menu">
+                <div class="navbar-start">
+                    <div class="navbar-item">
+                        <form>
+                            <div class="control">
+                                <input class="input search-header" type="text" placeholder="search">
+                            </div>
+                        </form>
+                    </div>
+                    <a class="navbar-item" href="index.html">
+                        Beranda
+                    </a>
+                    <a class="navbar-item is-active" href="pertanyaan.html">
+                        Daftar Pertanyaan
+                    </a>
+                    <a class="navbar-item" href="buku.html">
+                        Buku
+                    </a>
+                </div>
+                
+                <div class="navbar-end">
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <i><img width="20px" src="assets/img/notification.svg"></i>
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="">
+                                Tugas
+                            </a>
+                            <a class="navbar-item" href="catatan_guru.html">
+                                Catatan Guru
+                            </a>
+                            <a class="navbar-item" href="exam.html">
+                                Ulangan
+                            </a>
+                        </div>
+                    </div>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <img class="rounded" src="assets/student/grid/p_akbar.jpg" />
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="profile.html">
+                                Profile
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Bantuan
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Pengaturan
+                            </a>
+                            <hr class="navbar-divider">
+                            <a class="navbar-item" href="login.html">
+                                Logout
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+  
+  <section class="background-bg">
+    <div class="container full-height">
+      <div class="row full-height">
+        <div class="grid-3"></div>
+        <div class="grid-6 flex  flex-center justify-center">
+          <textarea placeholder="Masukan Pertanyaan" class="textarea border-color" name="text" id="" cols="2" rows="4"></textarea>
+          <div class="margin-top-10">
+            <button class="button basic margin-5">Tanya BOT</button><button class="button basic-ghost margin-5">Tanya User</button>
+          </div>
+        </div>
+        <div class="grid-3"></div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="padding-top-100 padding-bottom-100 grey-color">
+    <div class="container">
+      <div class="row">
+        <div class="grid-3">
+          <div class="panel border">
+            <h3 class="margin-20">Kategori Pertanyaan</h3>
+            <hr>
+            <div class=" padding-20">
+              <div class="flex">
+                <img class="margin-right-10 font-biru" width="20px" height="20px" src="assets/icon/agama.svg" alt="icon">
+                <p class="text-normal padding-bottom-20">Agama</p>
+              </div>
+              <div class="flex">
+                <img class="margin-right-10 font-merah" width="20px" height="20px" src="assets/icon/math.svg" alt="icon">
+                <p class="text-normal  padding-bottom-20">Matematika</p>
+              </div>
+              <div class="flex">
+                <img class="margin-right-10 font-orange" width="20px" height="20px" src="assets/icon/kamus.svg" alt="icon">
+                <p class="text-normal  padding-bottom-20">Bahasa Inggris</p>
+              </div>
+              <div class="flex">
+                <img class="margin-right-10 font-jingga" width="20px" height="20px" src="assets/icon/kamus.svg" alt="icon">
+                <p class="text-normal  padding-bottom-20">Bahasa Indonesia</p>
+              </div>
+              <div class="flex">
+                <img class="margin-right-10 font-hijau" width="20px" height="20px" src="assets/icon/fisika.svg " alt="icon">
+                <p class="text-normal  padding-bottom-20">Fisika</p>
+              </div>
+              <div class="flex">
+                <img class="margin-right-10 font-merah" width="20px" height="20px" src="assets/icon/biology.svg" alt="icon">
+                <p class="text-normal  padding-bottom-20">Biologi</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="grid-6">
+          <div class="panel padding-5 border">
+            <h3 class="margin-20">Daftar Pertanyaan</h3>
+            <hr>
+            <div class="padding-20">
+              <div class="flex">
+                <img class="rounded margin-right-10" src="assets/teacher/p_iis.jpg" alt="people">
+                <div>
+                  <a class="text-title" href="">Iis Yuliani, S.Pd </a>
+                  <p class="text-normal margin-top-5">Guru <b>Telkom</b></p>
+                  <p class="padding-top-10 text-normal-1">
+                  
+                  </p>
+                  <div class="margin-top-10">
+                    <button class="button basic-small margin-right-10">Jawab</button><button class="button basic-ghost-small">12 Jawaban</button>
+                  </div>
+                </div>
+              </div> 
+            </div>
+            <hr class="">
+            <div class="padding-20">
+              <div class="flex">
+                <img class="rounded margin-right-10" src="assets/student/grid/p_gilang.jpg" alt="asdas">
+                <div>
+                  <a class="text-title" href="">Nicholaus Gilang </a>
+                  <p class="text-normal margin-top-5">Siswa <b>Telkom</b></p>
+                  <p class="padding-top-10 text-normal-1">
+                    
+                  </p>
+                  <div class="margin-top-10">
+                    <button class="button basic-small margin-right-10">Jawab</button><button class="button basic-ghost-small">30 Jawaban</button>
+                  </div>
+                </div>
+              </div> 
+            </div>
+            <hr class="">
+            <div class="padding-20">
+              <div class="flex">
+                <img class="rounded margin-right-10" src="assets/teacher/p_nurul.jpg" alt="asdas">
+                <div>
+                  <a class="text-title" href="">Nurul Indah Sari, S.Pd </a>
+                  <p class="text-normal margin-top-5">Guru <b>Telkom</b></p>
+                  <p class="padding-top-10 text-normal-1">
+                      Cerita rekaan atau khayalan yang bukan merupakan kisah nyata disebut karya ....
+                  </p>
+                  <div class="margin-top-10">
+                    <button class="button basic-small margin-right-10">Jawab</button><button class="button basic-ghost-small">100 Jawaban</button>
+                  </div>
+                </div>
+              </div> 
+            </div>
+            <hr class="">
+            <div class="padding-top-10 padding-bottom-20 flex flex-center text-basic">Selengkapnya</div>
+            
+          </div>
+        </div>
+        <div class="grid-3">
+          <div class="panel padding-5 border">
+            <h3 class="margin-20">Papan Score</h3>
+            <hr>
+            <div class="padding-10">
+              <div class="flex space-bethwen">
+                <div class="flex">
+                  <img class="rounded margin-right-10" src="assets/student/grid/p_haura.jpg" alt="asdas">
+                  <div>
+                    <a class="text-title" href="">Simpatia Haura Yumna</a>
+                    <p class="text-normal-1 margin-top-5">Siswa</p>
+                  </div>
+                </div>
+                <div class="basic-ghost-small1">350</div>
+              </div>
+            </div>
+            <div class="padding-10">
+              <div class="flex space-bethwen">
+                <div class="flex">
+                  <img class="rounded margin-right-10" src="assets/student/grid/p_lala.jpg" alt="asdas">
+                  <div>
+                    <a class="text-title" href="">Lala Maulina</a>
+                    <p class="text-normal-1 margin-top-5">Siswa</p>
+                  </div>
+                </div>
+                <div class="basic-ghost-small1">350</div>
+              </div>
+            </div>
+            <div class="padding-10">
+              <div class="flex space-bethwen">
+                <div class="flex">
+                  <img class="rounded margin-right-10" src="assets/teacher/p_agus.jpg" alt="asdas">
+                  <div>
+                    <a class="text-title" href="">Agus Indra Cahya, S.Kom</a>
+                    <p class="text-normal-1 margin-top-5">Guru</p>
+                  </div>
+                </div>
+                <div class="basic-ghost-small1">350</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="footer">
+      <div class="container">
+          <div class="row  padding-top-30 padding-bottom-30">
+              <div class="grid-4"> <h2 class="font-color-white">KitaPintar</h2>
+                  <p class="font-biasa font-color-white margin-top-10 ">KitaPintar merupakan website yang berfokus pada layanan pendidikan dengan memanfaatkan perkembangan teknologi.</p></div>
+                  <div class="grid-2">
+                      <p class="margin-top-10 font-color-white font-biasa">Tentang</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Carier</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Blog</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Ruang Berita</p>
+                  </div>
+                  <div class="grid-3">
+                      <p class="margin-top-10 font-color-white font-biasa">Komunitas</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Privacy</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Syarat dan Ketentuan</p>
+                      <p class="margin-top-10 font-color-white font-biasa">Partner</p>
+                  </div>
+                  <div class="grid-3"></div>
+              </div>
+              
+          </div>
+          <div class="footer-back padding-10 flex flex-center">
+              <h4 class="font-color-white">© Copyright 2018 KitaPintar</h4>
+          </div>
+      </div>
+  </body>
+  </html>
+  
+  
+  
+</body>
+</html>

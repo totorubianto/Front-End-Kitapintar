@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.998 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #76d652;
+      }
+    </style>
+  </defs>
+  <g id="fisika" transform="translate(-66.001 0)">
+    <g id="Group_3" data-name="Group 3">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M116,312a10,10,0,1,0,10,10A10,10,0,0,0,116,312Z"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Path_3" data-name="Path 3" class="cls-1" d="M436,120H336a10,10,0,0,0-10,10V322a70,70,0,0,1-140,0V130a10,10,0,0,0-10-10H76a10,10,0,0,0-10,10V322c0,104.765,85.233,190,190,190s190-85.233,190-190V130A10,10,0,0,0,436,120ZM86,140h80v72H86V140ZM426,322c0,93.737-76.262,170-170,170S86,415.739,86,322V232h80v90a90,90,0,1,0,180,0V232h80Zm0-110H346V140h80Z"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+      <g id="Group_6" data-name="Group 6">
+        <path id="Path_4" data-name="Path 4" class="cls-1" d="M177.53,425.577a131.251,131.251,0,0,1-46.238-66.809,10,10,0,0,0-19.182,5.665,151.393,151.393,0,0,0,53.322,77.07,10,10,0,0,0,12.1-15.926Z"/>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9">
+      <g id="Group_8" data-name="Group 8">
+        <path id="Path_5" data-name="Path 5" class="cls-1" d="M144.508,44.746A10,10,0,0,0,136,40H112.182l12.764-25.528A10,10,0,0,0,107.057,5.53l-20,40A10,10,0,0,0,96,60h23.819L107.057,85.53a10,10,0,0,0,17.889,8.945l20-40A10,10,0,0,0,144.508,44.746Z"/>
+      </g>
+    </g>
+    <g id="Group_11" data-name="Group 11">
+      <g id="Group_10" data-name="Group 10">
+        <path id="Path_6" data-name="Path 6" class="cls-1" d="M424.506,44.746A10,10,0,0,0,416,40H392.18l12.764-25.528A10,10,0,0,0,387.055,5.53l-20,40A10,10,0,0,0,376,60h23.819L387.055,85.53a10,10,0,0,0,17.889,8.945l20-40A10,10,0,0,0,424.506,44.746Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

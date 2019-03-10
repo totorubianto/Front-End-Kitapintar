@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/gridku.css">
+    <link rel="stylesheet" href="assets/wygs.css">
+    <script type="text/javascript" href="assets/jquery.js"></script>
+    <title>Kita Pintar</title>
+</head>
+<body>
+	<nav class="navbar">
+        <div class="container navbar-padding">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <img src="assets/icon/logo.svg" alt="Kita Pintar" width="112" height="28">
+                </a>
+                <div class="navbar-burger burger" data-target="">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div id="" class="navbar-menu">
+                <div class="navbar-start">
+                    <div class="navbar-item">
+                        <form>
+                            <div class="control">
+                                <input class="input search-header" type="text" placeholder="search">
+                            </div>
+                        </form>
+                    </div>
+                    <a class="navbar-item is-active" href="index.html">
+                        Beranda
+                    </a>
+                    <a class="navbar-item" href="pertanyaan.html">
+                        Daftar Pertanyaan
+                    </a>
+                    <a class="navbar-item" href="buku.html">
+                        Buku
+                    </a>
+                </div>
+                
+                <div class="navbar-end">
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <i><img width="20px" src="assets/img/notification.svg"></i>
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="">
+                                Tugas
+                            </a>
+                            <a class="navbar-item" href="catatan_guru.html">
+                                Catatan Guru
+                            </a>
+                            <a class="navbar-item" href="exam.html">
+                                Ulangan
+                            </a>
+                        </div>
+                    </div>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <div class="navbar-link">
+                            <img class="rounded" src="assets/student/grid/p_akbar.jpg" />
+                        </div> 
+                        <div class="navbar-dropdown  is-right is-boxed">
+                            <a class="navbar-item" href="profile.html">
+                                Profile
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Bantuan
+                            </a>
+                            <a class="navbar-item" href="#">
+                                Pengaturan
+                            </a>
+                            <hr class="navbar-divider">
+                            <a class="navbar-item" href="login.html">
+                                Logout
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="padding-top-50 padding-bottom-100 grey-color">
+        
+        <div class="container">
+            <nav class="breadcrumb" aria-label="breadcrumbs">
+                <ul>
+                    <li class=""><a href="#">Home</a></li>
+                </ul>
+            </nav>
+            <div class="row padding-top-30 no-5-margin">
+                <div class="grid-3">
+                    <div class="panel border">
+                        <div class="margin-20">
+                            <div class="flex">
+                                <img src="assets/student/grid/p_akbar.jpg"img-profile" class="img-radius"/>
+                                <div class="margin-left-10">
+                                    <img src="assets/icon/ic_three_dots.1.svg" width="12px" height="12px" alt="" class="three-dots margin-top-2 is-pulled-right">
+                                    <div class="flex">
+                                        <h2 class="text-judul padding-bottom-5">Akbar Ramadhan</h2>
+                                    </div>   
+                                    <div class="flex">
+                                        <img class="margin-right-10" width="20px" height="20px" src="assets/icon/ic_graduate.1.svg" alt="icon">
+                                        <p class="text-biasa1">Bersekolah di <span class="text-dark-blue">SMK Telkom Purwokerto</span></p>
+                                    </div>
+                                    <div class="is-pulled-right padding-right-10 padding-top-10">
+                                        <a href="profile.html" class="text-basic ">Lihat Profile</a>
+                                    </div>
+                                </div>
+                            </div>                                 
+                        </div>
+                    </div>
+                    
+                    <div class="panel border margin-top-10 margin-bottom-20">
+                        <div class="padding-10 yellow-bg">
+                            <img src="assets/icon/ic_three_dots.svg" width="12px" height="12px" alt="ic-graduate" class="is-pulled-right margin-top-2">
+                            <div class="flex ">
+                                <img class="margin-right-10" width="20px" height="20px" src="assets/icon/ic_graduate.svg" alt="icon">
+                                <h3 class="text-title font-color-white">Bergabung di Grup</h3>
+                            </div>
+                        </div>
+                        <div class="flex margin-20">
+                            <h4 class="text-normal">Matematika XII RPL 3</h4>
+                        </div>
+                        <div class="flex margin-20">
+                            <h4 class="text-normal">Sejarah XII RPL 3</h4>
+                        </div>
+                        <div class="flex margin-20">
+                            <h4 class="text-normal">Bahasa Inggris XII RPL 3</h4>
+                        </div>  
+                        <hr>
+                        <div class="flex margin-10">
+                            
+                            <a href="group.html" class="button basic full-width">Gabung Group</a>
+                        </div>                 
+                    </div> 
+                </div>
+                
+                <div class="grid-6 padding-right-20">
+                    <div class="panel border">
+                        <div class="margin-20">
+                            <h3>Bagikan sesuatu</h3>
+                            <div class="editor-controls margin-top-10">
+                                <a href='#' >B</a>
+                                <a href='#' >I</a>
+                                <a href='#' >U</a>
+                                <a href='#' ><i class="menu-left"></i></a>
+                                <a href='#' ><i class="menu-center"></i></a>
+                                <a href='#' ><i class="menu-right"></i></a>
+                            </div>
+                            <textarea name="" id="" cols="1" rows="4" class="textarea border" placeholder="Bagikan Sesuatu"></textarea>      
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="panel border margin-top-10 margin-bottom-20">
+                        <h3 class="text-title margin-20"> Aktifitas Umum</h3>
+                        <hr>
+                        <div class="flex margin-20">
+                            <img class="rounded" src="assets/teacher/p_iis.jpg" />
+                            <div class="margin-left-10">
+                                <div class="flex">
+                                    <a href="" class="text-title">Iis Yuliani, S.Pd </a> <p class="text-normal margin-left-4">bertanya</p>
+                                </div>
+                                <div class="flex margin-top-6">
+                                    <p class="text-normal">Guru di</p> <a href="" class="text-title margin-left-4">SMK Telkom Purwokerto</a> 
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <p class="text-normal-1">Mega can’t come to the conference right now because she………. her little baby.</p>
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <a href="pertanyaan.html" class="button basic-ghost-small">Jawab</a>
+                                    <div class="margin-left-30">   
+                                        <a href="pertanyaan.html" class="text-basic flex flex-center-vertical">12 Jawaban</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="flex margin-20">
+                            <img class="rounded" src="assets/student/grid/p_avtara.jpg" />
+                            <div class="margin-left-10">
+                                <div class="flex">
+                                    <a href="" class="text-title">Avtara Khrisna</a> <p class="text-normal margin-left-4">bertanya</p>
+                                </div>
+                                <div class="flex margin-top-6">
+                                    <p class="text-normal">Siswa di</p> <a href="" class="text-title margin-left-4">SMK Telkom Purwokerto</a> 
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <p class="text-normal-1">Berkunjung ke Baitullah (Ka’bah) untuk melaksanakan ibadah dan syarat-syarat tertentu dan waktu tidak terbatas disebut..</p>
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <a href="pertanyaan.html" class="button basic-ghost-small">Jawab</a>
+                                    <div class="margin-left-30">   
+                                        <a href="pertanyaan.html" class="text-basic flex flex-center-vertical">43 Jawaban</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="flex margin-20">
+                            <img class="rounded" src="assets/teacher/p_nurul.jpg" />
+                            <div class="margin-left-10">
+                                <div class="flex">
+                                    <a href="" class="text-title">Nurul Indah Sari, S.Pd </a> <p class="text-normal margin-left-4">bertanya</p>
+                                </div>
+                                <div class="flex margin-top-6">
+                                    <p class="text-normal">Guru di</p> <a href="" class="text-title margin-left-4">SMK Telkom Purwokerto</a> 
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <p class="text-normal-1">Ibu sedang menggulai teh. Kata menggulai mempunyai makna ....</p>
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <a href="pertanyaan.html" class="button basic-ghost-small">Jawab</a>
+                                    <div class="margin-left-30">   
+                                        <a href="pertanyaan.html" class="text-basic flex flex-center-vertical">34 Jawaban</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="flex margin-20">
+                            <img class="rounded" src="assets/teacher/p_arif.jpg" />
+                            <div class="margin-left-10">
+                                <div class="flex">
+                                    <a href="" class="text-title">Arif Munandar,S.Si </a> <p class="text-normal margin-left-4">bertanya</p>
+                                </div>
+                                <div class="flex margin-top-6">
+                                    <p class="text-normal">Guru di</p> <a href="" class="text-title margin-left-4">SMK Telkom Purwokerto</a> 
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <p class="text-normal-1">Tujuh tahun yang lalu umur ayah sama dengan 6 kali umur Budi. Empat tahun yang akan
+                                            datang 2 kali umur ayah sama dengan 5 kali umur Budi ditambah 9 tahun. Umur ayah
+                                            sekarang adalah ........
+                                            </p>
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <a href="pertanyaan.html" class="button basic-ghost-small">Jawab</a>
+                                    <div class="margin-left-30">   
+                                        <a href="pertanyaan.html" class="text-basic flex flex-center-vertical">44 Jawaban</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="flex margin-20">
+                            <img class="rounded" src="assets/student/grid/p_cahya.jpg" />
+                            <div class="margin-left-10">
+                                <div class="flex">
+                                    <a href="" class="text-title">Cahya Aulia Setiani</a> <p class="text-normal margin-left-4">bertanya</p>
+                                </div>
+                                <div class="flex margin-top-6">
+                                    <p class="text-normal">Guru di</p> <a href="" class="text-title margin-left-4">SMK Telkom Purwokerto</a> 
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <p class="text-normal-1">I ………………… a fantastic film at the cinema last week.</p>
+                                </div>
+                                <div class="flex margin-top-10">
+                                    <a href="pertanyaan.html" class="button basic-ghost-small">Jawab</a>
+                                    <div class="margin-left-30">   
+                                        <a href="pertanyaan.html" class="text-basic flex flex-center-vertical">27 Jawaban</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                
+                <div class="grid-3">
+                    <div class="panel border">
+                        <h3 class="margin-10">Tugas hari ini</h3>
+                        <hr>
+                        <div class="margin-20 flex justify-center flex-center">
+                            <img src="assets/icon/tugas.svg" width="100px" height="100px" alt="icon-tugas">
+                            <p class="text-normal margin-top-10">Tidak ada tugas hari ini</p>
+                        </div>
+                    </div>
+                    <div class="panel border margin-top-10">
+                        <h3 class="margin-10">Catatan Guru</h3>
+                        <hr>
+                        <div class="margin-20 flex justify-center flex-center">
+                            <img src="assets/icon/catatan.svg" width="100px" height="100px" alt="icon-tugas">
+                            <p class="text-normal text-center margin-top-10">Selamat Kamu tidak punya catatan dari guru</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<div class="footer">
+    <div class="container">
+        <div class="row  padding-top-30 padding-bottom-30">
+            <div class="grid-4"> <h2 class="font-color-white">KitaPintar</h2>
+                <p class="font-biasa font-color-white margin-top-10 ">KitaPintar merupakan website yang berfokus pada layanan pendidikan dengan memanfaatkan perkembangan teknologi.</p></div>
+                <div class="grid-2">
+                    <p class="margin-top-10 font-color-white font-biasa">Tentang</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Carier</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Blog</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Ruang Berita</p>
+                </div>
+                <div class="grid-3">
+                    <p class="margin-top-10 font-color-white font-biasa">Komunitas</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Privacy</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Syarat dan Ketentuan</p>
+                    <p class="margin-top-10 font-color-white font-biasa">Partner</p>
+                </div>
+                <div class="grid-3"></div>
+            </div>
+            
+        </div>
+        <div class="footer-back padding-10 flex flex-center">
+            <h4 class="font-color-white">© Copyright 2018 KitaPintar</h4>
+        </div>
+    </div>
+</body>
+</html>

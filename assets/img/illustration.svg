@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="667px" height="467px" viewBox="0 0 667 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9679771%" y1="100%" x2="49.9679771%" y2="0.0236395405%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.3021502%" y1="92.0854364%" x2="52.3021502%" y2="21.9702854%" id="linearGradient-2">
+            <stop stop-color="#F6FFF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E9FFF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9977673%" y1="99.9985137%" x2="49.9977673%" y2="-0.00835145543%" id="linearGradient-3">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+            <g id="workspace-4">
+                <g id="city" transform="translate(108.000000, 0.000000)">
+                    <g id="color_3_" transform="translate(0.000000, 14.000000)">
+                        <polyline id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="280.4 367.7 280.4 358.4 340.2 358.4 340.2 360.7 346.4 360.7 346.4 358.4 354.2 358.4 354.2 360.7 360.3 360.7 360.3 358.4 367.5 358.4 398.2 358.4 410.5 358.4 410.5 361.3 430.5 361.3 450.5 361.3 450.5 358.4 464.8 358.4"></polyline>
+                        <path d="M464.8,358.4 L464.8,124.4" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polyline id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="464.8 124.4 464.8 25.1 398.2 25.1 398.2 214.4 367.5 214.4 367.5 151.7 280.4 151.7 280.4 0.4"></polyline>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="450.5 357.9 450.5 337.9 450.5 317.9 450.5 297.9 450.5 277.9 450.5 257.9 450.5 237.9 450.5 217.9 450.5 197.9 450.5 177.9 450.5 157.9 450.5 137.9 450.5 117.9 450.5 97.9 450.5 77.9 450.5 57.9 450.5 37.9 430.5 37.9 410.5 37.9 410.5 57.9 410.5 77.9 410.5 97.9 410.5 117.9 410.5 137.9 410.5 157.9 410.5 177.9 410.5 197.9 410.5 217.9 410.5 237.9 410.5 257.9 410.5 277.9 410.5 297.9 410.5 317.9 410.5 337.9 410.5 358.4 398.2 358.4 398.2 214.4 398.2 25.1 464.8 25.1 464.8 124.4 464.8 358.4 450.5 358.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="430.5 358.4 450.5 358.4 450.5 361.3 430.5 361.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="430.5 357.9 450.5 357.9 450.5 358.3 430.5 358.3"></polygon>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="337.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="317.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="297.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="277.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="257.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="237.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="217.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="197.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="177.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="157.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="137.9" width="20" height="20"></rect>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="430.5 117.9 450.5 117.9 450.5 137.9 430.5 137.9"></polygon>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="97.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="77.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="57.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="430.5" y="37.9" width="20" height="20"></rect>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="410.5 358.4 430.5 358.4 430.5 361.3 410.5 361.3"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="430.5 357.9 430.5 358.4 410.5 358.4 410.5 337.9 430.5 337.9"></polygon>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="317.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="297.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="277.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="257.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="237.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="217.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="197.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="177.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="157.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="137.9" width="20" height="20"></rect>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="410.5 117.9 430.5 117.9 430.5 137.9 410.5 137.9"></polygon>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="97.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="77.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="57.9" width="20" height="20"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="410.5" y="37.9" width="20" height="20"></rect>
+                        <path d="M398.2,214.4 L398.2,358.4 L367.5,358.4 L367.5,214.4 L398.2,214.4 Z M392.1,354.3 L392.1,348.2 L386,348.2 L386,354.3 L392.1,354.3 Z M392.1,340.3 L392.1,334.2 L386,334.2 L386,340.3 L392.1,340.3 Z M392.1,326.3 L392.1,320.2 L386,320.2 L386,326.3 L392.1,326.3 Z M392.1,312.3 L392.1,306.2 L386,306.2 L386,312.3 L392.1,312.3 Z M392.1,298.3 L392.1,292.2 L386,292.2 L386,298.3 L392.1,298.3 Z M392.1,284.3 L392.1,278.2 L386,278.2 L386,284.3 L392.1,284.3 Z M392.1,270.3 L392.1,264.2 L386,264.2 L386,270.3 L392.1,270.3 Z M392.1,256.3 L392.1,250.2 L386,250.2 L386,256.3 L392.1,256.3 Z M392.1,242.3 L392.1,236.2 L386,236.2 L386,242.3 L392.1,242.3 Z M392.1,228.3 L392.1,222.2 L386,222.2 L386,228.3 L392.1,228.3 Z M380.1,354.3 L380.1,348.2 L374,348.2 L374,354.3 L380.1,354.3 Z M380.1,340.3 L380.1,334.2 L374,334.2 L374,340.3 L380.1,340.3 Z M380.1,326.3 L380.1,320.2 L374,320.2 L374,326.3 L380.1,326.3 Z M380.1,312.3 L380.1,306.2 L374,306.2 L374,312.3 L380.1,312.3 Z M380.1,298.3 L380.1,292.2 L374,292.2 L374,298.3 L380.1,298.3 Z M380.1,284.3 L380.1,278.2 L374,278.2 L374,284.3 L380.1,284.3 Z M380.1,270.3 L380.1,264.2 L374,264.2 L374,270.3 L380.1,270.3 Z M380.1,256.3 L380.1,250.2 L374,250.2 L374,256.3 L380.1,256.3 Z M380.1,242.3 L380.1,236.2 L374,236.2 L374,242.3 L380.1,242.3 Z M380.1,228.3 L380.1,222.2 L374,222.2 L374,228.3 L380.1,228.3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 348.2 392 348.2 392 354.3 385.9 354.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 334.2 392 334.2 392 340.3 385.9 340.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 320.2 392 320.2 392 326.3 385.9 326.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 306.2 392 306.2 392 312.3 385.9 312.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 292.2 392 292.2 392 298.3 385.9 298.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 278.2 392 278.2 392 284.3 385.9 284.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 264.2 392 264.2 392 270.3 385.9 270.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 250.2 392 250.2 392 256.3 385.9 256.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 236.2 392 236.2 392 242.3 385.9 242.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="385.9 222.2 392 222.2 392 228.3 385.9 228.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 348.2 380 348.2 380 354.3 373.9 354.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 334.2 380 334.2 380 340.3 373.9 340.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 320.2 380 320.2 380 326.3 373.9 326.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 306.2 380 306.2 380 312.3 373.9 312.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 292.2 380 292.2 380 298.3 373.9 298.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 278.2 380 278.2 380 284.3 373.9 284.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 264.2 380 264.2 380 270.3 373.9 270.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 250.2 380 250.2 380 256.3 373.9 256.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 236.2 380 236.2 380 242.3 373.9 242.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="373.9 222.2 380 222.2 380 228.3 373.9 228.3"></polygon>
+                        <path d="M367.5,214.4 L367.5,358.4 L360.3,358.4 L360.3,346.4 L354.2,346.4 L354.2,358.4 L346.3,358.4 L346.3,346.4 L340.2,346.4 L340.2,358.4 L280.4,358.4 L280.4,151.7 L367.5,151.7 L367.5,214.4 Z M360.3,330.7 L360.3,316.4 L354.2,316.4 L354.2,330.7 L360.3,330.7 Z M360.3,300.7 L360.3,286.4 L354.2,286.4 L354.2,300.7 L360.3,300.7 Z M360.3,270.7 L360.3,256.4 L354.2,256.4 L354.2,270.7 L360.3,270.7 Z M360.3,240.7 L360.3,226.4 L354.2,226.4 L354.2,240.7 L360.3,240.7 Z M360.3,210.7 L360.3,196.4 L354.2,196.4 L354.2,210.7 L360.3,210.7 Z M360.3,180.7 L360.3,166.4 L354.2,166.4 L354.2,180.7 L360.3,180.7 Z M346.4,330.7 L346.4,316.4 L340.3,316.4 L340.3,330.7 L346.4,330.7 Z M346.4,300.7 L346.4,286.4 L340.3,286.4 L340.3,300.7 L346.4,300.7 Z M346.4,270.7 L346.4,256.4 L340.3,256.4 L340.3,270.7 L346.4,270.7 Z M346.4,240.7 L346.4,226.4 L340.3,226.4 L340.3,240.7 L346.4,240.7 Z M346.4,210.7 L346.4,196.4 L340.3,196.4 L340.3,210.7 L346.4,210.7 Z M346.4,180.7 L346.4,166.4 L340.3,166.4 L340.3,180.7 L346.4,180.7 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 358.4 360.3 358.4 360.3 360.7 354.2 360.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 346.4 360.3 346.4 360.3 358.4 354.2 358.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 316.4 360.3 316.4 360.3 330.7 354.2 330.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 286.4 360.3 286.4 360.3 300.7 354.2 300.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 256.4 360.3 256.4 360.3 270.7 354.2 270.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 226.4 360.3 226.4 360.3 240.7 354.2 240.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 196.4 360.3 196.4 360.3 210.7 354.2 210.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="354.2 166.4 360.3 166.4 360.3 180.7 354.2 180.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 358.4 346.3 358.4 346.3 360.7 340.2 360.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 346.4 346.3 346.4 346.3 358.4 340.2 358.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 316.4 346.3 316.4 346.3 330.7 340.2 330.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 286.4 346.3 286.4 346.3 300.7 340.2 300.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 256.4 346.3 256.4 346.3 270.7 340.2 270.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 226.4 346.3 226.4 346.3 240.7 340.2 240.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 196.4 346.3 196.4 346.3 210.7 340.2 210.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="340.2 166.4 346.3 166.4 346.3 180.7 340.2 180.7"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="280.4 358.4 280.4 367.7 277.4 367.7 277.4 151.7 280.4 151.7"></polygon>
+                        <path d="M174.7,70.4 L174.7,358.3 L148.9,358.3 L148.9,136.9 L131.4,136.9 L131.4,70.4 L174.7,70.4 Z M165.7,358.3 L165.7,352.2 L159.6,352.2 L159.6,358.3 L165.7,358.3 Z M165.7,339.8 L165.7,333.7 L159.6,333.7 L159.6,339.8 L165.7,339.8 Z M165.7,323.5 L165.7,317.4 L159.6,317.4 L159.6,323.5 L165.7,323.5 Z M165.7,307.1 L165.7,301 L159.6,301 L159.6,307.1 L165.7,307.1 Z M165.7,288.7 L165.7,282.6 L159.6,282.6 L159.6,288.7 L165.7,288.7 Z M165.7,268.3 L165.7,262.2 L159.6,262.2 L159.6,268.3 L165.7,268.3 Z M165.7,249.8 L165.7,243.7 L159.6,243.7 L159.6,249.8 L165.7,249.8 Z M165.7,233.5 L165.7,227.4 L159.6,227.4 L159.6,233.5 L165.7,233.5 Z M165.7,217.1 L165.7,211 L159.6,211 L159.6,217.1 L165.7,217.1 Z M165.7,198.7 L165.7,192.6 L159.6,192.6 L159.6,198.7 L165.7,198.7 Z M165.7,182.3 L165.7,176.2 L159.6,176.2 L159.6,182.3 L165.7,182.3 Z M165.7,165.9 L165.7,159.8 L159.6,159.8 L159.6,165.9 L165.7,165.9 Z M165.7,147.5 L165.7,141.4 L159.6,141.4 L159.6,147.5 L165.7,147.5 Z M165.7,131.1 L165.7,125 L159.6,125 L159.6,131.1 L165.7,131.1 Z M165.7,114.8 L165.7,108.7 L159.6,108.7 L159.6,114.8 L165.7,114.8 Z M165.7,98.1 L165.7,92 L159.6,92 L159.6,98.1 L165.7,98.1 Z M145.2,131.1 L145.2,125 L139.1,125 L139.1,131.1 L145.2,131.1 Z M145.2,114.8 L145.2,108.7 L139.1,108.7 L139.1,114.8 L145.2,114.8 Z M145.2,98.1 L145.2,92 L139.1,92 L139.1,98.1 L145.2,98.1 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="174.7 66.4 174.7 70.4 131.4 70.4 129.1 70.4 129.1 66.4"></polygon>
+                        <path d="M18.5,37.9 L11,37.9 L11,42.5 L2.7,42.5 L2.7,0.4 L174.7,0.4 L174.7,66.4 L129.2,66.4 L129.2,70.5 L131.4,70.5 L131.4,137 L112,137 L112,129.9 L109.6,129.9 L109.6,123 L98.6,123 L98.6,129.8 L73.8,129.8 L73.8,136.9 L63.6,136.9 L63.6,173.1 L63.6,358.4 L2.7,358.4 L2.7,173.1 L11,173.1 L22.1,173.1 L30.8,173.1 L30.8,42.5 L26,42.5 L26,37.9 L22.1,37.9 L18.5,37.9 Z M55.2,352.2 L55.2,346 L49.1,346 L49.1,352.1 L55.2,352.1 L55.2,352.2 Z M55.2,335.8 L55.2,329.7 L49.1,329.7 L49.1,335.8 L55.2,335.8 Z M55.2,320.2 L55.2,314 L49.1,314 L49.1,320.1 L55.2,320.1 L55.2,320.2 Z M55.2,303.8 L55.2,297.7 L49.1,297.7 L49.1,303.8 L55.2,303.8 Z M55.2,288.2 L55.2,282 L49.1,282 L49.1,288.1 L55.2,288.1 L55.2,288.2 Z M55.2,271.8 L55.2,265.7 L49.1,265.7 L49.1,271.8 L55.2,271.8 Z M55.2,256.2 L55.2,250 L49.1,250 L49.1,256.1 L55.2,256.1 L55.2,256.2 Z M55.2,239.8 L55.2,233.7 L49.1,233.7 L49.1,239.8 L55.2,239.8 Z M55.2,224.2 L55.2,218 L49.1,218 L49.1,224.1 L55.2,224.1 L55.2,224.2 Z M55.2,207.8 L55.2,201.7 L49.1,201.7 L49.1,207.8 L55.2,207.8 Z M34.7,352.2 L34.7,346 L28.6,346 L28.6,352.1 L34.7,352.1 L34.7,352.2 Z M34.7,335.8 L34.7,329.7 L28.6,329.7 L28.6,335.8 L34.7,335.8 Z M34.7,320.2 L34.7,314 L28.6,314 L28.6,320.1 L34.7,320.1 L34.7,320.2 Z M34.7,303.8 L34.7,297.7 L28.6,297.7 L28.6,303.8 L34.7,303.8 Z M34.7,288.2 L34.7,282 L28.6,282 L28.6,288.1 L34.7,288.1 L34.7,288.2 Z M34.7,271.8 L34.7,265.7 L28.6,265.7 L28.6,271.8 L34.7,271.8 Z M34.7,256.2 L34.7,250 L28.6,250 L28.6,256.1 L34.7,256.1 L34.7,256.2 Z M34.7,239.8 L34.7,233.7 L28.6,233.7 L28.6,239.8 L34.7,239.8 Z M34.7,224.2 L34.7,218 L28.6,218 L28.6,224.1 L34.7,224.1 L34.7,224.2 Z M34.7,207.8 L34.7,201.7 L28.6,201.7 L28.6,207.8 L34.7,207.8 Z M14.3,352.2 L14.3,346 L8.2,346 L8.2,352.1 L14.3,352.1 L14.3,352.2 Z M14.3,335.8 L14.3,329.7 L8.2,329.7 L8.2,335.8 L14.3,335.8 Z M14.3,320.2 L14.3,314 L8.2,314 L8.2,320.1 L14.3,320.1 L14.3,320.2 Z M14.3,303.8 L14.3,297.7 L8.2,297.7 L8.2,303.8 L14.3,303.8 Z M14.3,288.2 L14.3,282 L8.2,282 L8.2,288.1 L14.3,288.1 L14.3,288.2 Z M14.3,271.8 L14.3,265.7 L8.2,265.7 L8.2,271.8 L14.3,271.8 Z M14.3,256.2 L14.3,250 L8.2,250 L8.2,256.1 L14.3,256.1 L14.3,256.2 Z M14.3,239.8 L14.3,233.7 L8.2,233.7 L8.2,239.8 L14.3,239.8 Z M14.3,224.2 L14.3,218 L8.2,218 L8.2,224.1 L14.3,224.1 L14.3,224.2 Z M14.3,207.8 L14.3,201.7 L8.2,201.7 L8.2,207.8 L14.3,207.8 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 352.1 165.7 352.1 165.7 358.2 159.6 358.2"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 333.7 165.7 333.7 165.7 339.8 159.6 339.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 317.3 165.7 317.3 165.7 323.4 159.6 323.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 301 165.7 301 165.7 307.1 159.6 307.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 282.5 165.7 282.5 165.7 288.6 159.6 288.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 262.1 165.7 262.1 165.7 268.2 159.6 268.2"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 243.7 165.7 243.7 165.7 249.8 159.6 249.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 227.3 165.7 227.3 165.7 233.4 159.6 233.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 211 165.7 211 165.7 217.1 159.6 217.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 192.5 165.7 192.5 165.7 198.6 159.6 198.6"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="159.6 176.2 165.7 176.2 165.7 182.3 159.6 182.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="159.6 159.8 165.7 159.8 165.7 165.9 159.6 165.9"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="159.6 141.4 165.7 141.4 165.7 147.5 159.6 147.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 125 165.7 125 165.7 131.1 159.6 131.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="159.6 108.6 165.7 108.6 165.7 114.7 159.6 114.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="159.6 91.9 165.7 91.9 165.7 98 159.6 98"></polygon>
+                        <path d="M148.9,136.9 L148.9,358.4 L140.1,358.4 L140.1,346.9 L134,346.9 L134,358.4 L119.7,358.4 L119.7,346.9 L113.6,346.9 L113.6,358.4 L99.3,358.4 L99.3,346.9 L93.2,346.9 L93.2,358.4 L78.9,358.4 L78.9,346.9 L72.8,346.9 L72.8,358.4 L63.8,358.4 L63.8,173.1 L63.8,136.9 L74,136.9 L112,136.9 L131.3,136.9 L148.9,136.9 Z M140.1,330.6 L140.1,316.3 L134,316.3 L134,330.6 L140.1,330.6 Z M140.1,299.9 L140.1,285.6 L134,285.6 L134,299.9 L140.1,299.9 Z M140.1,271.3 L140.1,257 L134,257 L134,271.3 L140.1,271.3 Z M140.1,240.6 L140.1,226.3 L134,226.3 L134,240.6 L140.1,240.6 Z M140.1,209.9 L140.1,195.6 L134,195.6 L134,209.9 L140.1,209.9 Z M140.1,179.2 L140.1,164.9 L134,164.9 L134,179.2 L140.1,179.2 Z M140.1,151.5 L140.1,145.4 L134,145.4 L134,151.5 L140.1,151.5 Z M119.7,330.6 L119.7,316.3 L113.6,316.3 L113.6,330.6 L119.7,330.6 Z M119.7,299.9 L119.7,285.6 L113.6,285.6 L113.6,299.9 L119.7,299.9 Z M119.7,271.3 L119.7,257 L113.6,257 L113.6,271.3 L119.7,271.3 Z M119.7,240.6 L119.7,226.3 L113.6,226.3 L113.6,240.6 L119.7,240.6 Z M119.7,209.9 L119.7,195.6 L113.6,195.6 L113.6,209.9 L119.7,209.9 Z M119.7,179.2 L119.7,164.9 L113.6,164.9 L113.6,179.2 L119.7,179.2 Z M119.7,151.5 L119.7,145.4 L113.6,145.4 L113.6,151.5 L119.7,151.5 Z M99.2,330.6 L99.2,316.3 L93.1,316.3 L93.1,330.6 L99.2,330.6 Z M99.2,299.9 L99.2,285.6 L93.1,285.6 L93.1,299.9 L99.2,299.9 Z M99.2,271.3 L99.2,257 L93.1,257 L93.1,271.3 L99.2,271.3 Z M99.2,240.6 L99.2,226.3 L93.1,226.3 L93.1,240.6 L99.2,240.6 Z M99.2,209.9 L99.2,195.6 L93.1,195.6 L93.1,209.9 L99.2,209.9 Z M99.2,179.2 L99.2,164.9 L93.1,164.9 L93.1,179.2 L99.2,179.2 Z M99.2,151.5 L99.2,145.4 L93.1,145.4 L93.1,151.5 L99.2,151.5 Z M78.7,330.6 L78.7,316.3 L72.6,316.3 L72.6,330.6 L78.7,330.6 Z M78.7,299.9 L78.7,285.6 L72.6,285.6 L72.6,299.9 L78.7,299.9 Z M78.7,271.3 L78.7,257 L72.6,257 L72.6,271.3 L78.7,271.3 Z M78.7,240.6 L78.7,226.3 L72.6,226.3 L72.6,240.6 L78.7,240.6 Z M78.7,209.9 L78.7,195.6 L72.6,195.6 L72.6,209.9 L78.7,209.9 Z M78.7,179.2 L78.7,164.9 L72.6,164.9 L72.6,179.2 L78.7,179.2 Z M78.7,151.5 L78.7,145.4 L72.6,145.4 L72.6,151.5 L78.7,151.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="139.1 125 145.2 125 145.2 131.1 139.1 131.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="139.1 108.6 145.2 108.6 145.2 114.7 139.1 114.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="139.1 91.9 145.2 91.9 145.2 98 139.1 98"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 358.4 140.1 358.4 140.1 361.3 134 361.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 346.9 140.1 346.9 140.1 358.3 134 358.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 316.2 140.1 316.2 140.1 330.5 134 330.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 285.5 140.1 285.5 140.1 299.8 134 299.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 256.9 140.1 256.9 140.1 271.2 134 271.2"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 226.2 140.1 226.2 140.1 240.5 134 240.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 195.5 140.1 195.5 140.1 209.8 134 209.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 164.8 140.1 164.8 140.1 179.1 134 179.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="134 145.4 140.1 145.4 140.1 151.5 134 151.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 358.4 119.6 358.4 119.6 361.3 113.5 361.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 346.9 119.6 346.9 119.6 358.3 113.5 358.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 316.2 119.6 316.2 119.6 330.5 113.5 330.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 285.5 119.6 285.5 119.6 299.8 113.5 299.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 256.9 119.6 256.9 119.6 271.2 113.5 271.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="113.5 226.2 119.6 226.2 119.6 240.5 113.5 240.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 195.5 119.6 195.5 119.6 209.8 113.5 209.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="113.5 164.8 119.6 164.8 119.6 179.1 113.5 179.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="113.5 145.4 119.6 145.4 119.6 151.5 113.5 151.5"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="112 129.8 112 136.9 73.8 136.9 73.8 129.8 98.6 129.8 109.6 129.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="98.6 123 109.6 123 109.6 129.8 98.6 129.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 358.4 99.2 358.4 99.2 361.3 93.1 361.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 346.9 99.2 346.9 99.2 358.3 93.1 358.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 316.2 99.2 316.2 99.2 330.5 93.1 330.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 285.5 99.2 285.5 99.2 299.8 93.1 299.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 256.9 99.2 256.9 99.2 271.2 93.1 271.2"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 226.2 99.2 226.2 99.2 240.5 93.1 240.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 195.5 99.2 195.5 99.2 209.8 93.1 209.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="93.1 164.8 99.2 164.8 99.2 179.1 93.1 179.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="93.1 145.4 99.2 145.4 99.2 151.5 93.1 151.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 358.4 78.7 358.4 78.7 361.3 72.6 361.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 346.9 78.7 346.9 78.7 358.3 72.6 358.3"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 316.2 78.7 316.2 78.7 330.5 72.6 330.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 285.5 78.7 285.5 78.7 299.8 72.6 299.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 256.9 78.7 256.9 78.7 271.2 72.6 271.2"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 226.2 78.7 226.2 78.7 240.5 72.6 240.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 195.5 78.7 195.5 78.7 209.8 72.6 209.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 164.8 78.7 164.8 78.7 179.1 72.6 179.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="72.6 145.4 78.7 145.4 78.7 151.5 72.6 151.5"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 346 55.2 346 55.2 352.1 49.1 352.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 329.7 55.2 329.7 55.2 335.8 49.1 335.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 314 55.2 314 55.2 320.1 49.1 320.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 297.7 55.2 297.7 55.2 303.8 49.1 303.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 282 55.2 282 55.2 288.1 49.1 288.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 265.7 55.2 265.7 55.2 271.8 49.1 271.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 250 55.2 250 55.2 256.1 49.1 256.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 233.7 55.2 233.7 55.2 239.8 49.1 239.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 218 55.2 218 55.2 224.1 49.1 224.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="49.1 201.7 55.2 201.7 55.2 207.8 49.1 207.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="28.6 346 34.7 346 34.7 352.1 28.6 352.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="28.6 329.7 34.7 329.7 34.7 335.8 28.6 335.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="28.6 314 34.7 314 34.7 320.1 28.6 320.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="28.6 297.7 34.7 297.7 34.7 303.8 28.6 303.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="28.6 282 34.7 282 34.7 288.1 28.6 288.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="28.6 265.7 34.7 265.7 34.7 271.8 28.6 271.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="28.6 250 34.7 250 34.7 256.1 28.6 256.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="28.6 233.7 34.7 233.7 34.7 239.8 28.6 239.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="28.6 218 34.7 218 34.7 224.1 28.6 224.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="28.6 201.7 34.7 201.7 34.7 207.8 28.6 207.8"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="30.8 42.5 30.8 173.1 22.1 173.1 22.1 162.9 22.1 152.6 22.1 142.4 22.1 132.2 22.1 121.9 22.1 111.7 22.1 101.7 22.1 91.7 22.1 81 22.1 70.8 22.1 60.5 22.1 52 11 52 2.7 52 2.7 42.5 11 42.5 26 42.5"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="26 37.9 26 42.5 11 42.5 11 37.9 18.5 37.9 22.1 37.9"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 162.9 22.1 162.9 22.1 173.1 11 173.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 152.6 22.1 152.6 22.1 162.8 11 162.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 142.4 22.1 142.4 22.1 152.6 11 152.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 132.2 22.1 132.2 22.1 142.4 11 142.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 121.9 22.1 121.9 22.1 132.1 11 132.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 111.7 22.1 111.7 22.1 121.9 11 121.9"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 101.7 22.1 101.7 22.1 111.7 11 111.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 91.7 22.1 91.7 22.1 101.7 11 101.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 81 22.1 81 22.1 91.7 11 91.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 70.8 22.1 70.8 22.1 81 11 81"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="11 60.5 22.1 60.5 22.1 70.7 11 70.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="11 52 22.1 52 22.1 60.6 11 60.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 346 14.2 346 14.2 352.1 8.1 352.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 329.7 14.2 329.7 14.2 335.8 8.1 335.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 314 14.2 314 14.2 320.1 8.1 320.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 297.7 14.2 297.7 14.2 303.8 8.1 303.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 282 14.2 282 14.2 288.1 8.1 288.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="8.1 265.7 14.2 265.7 14.2 271.8 8.1 271.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="8.1 250 14.2 250 14.2 256.1 8.1 256.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="8.1 233.7 14.2 233.7 14.2 239.8 8.1 239.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="8.1 218 14.2 218 14.2 224.1 8.1 224.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" opacity="0.332263765" stroke-linecap="round" stroke-linejoin="round" points="8.1 201.7 14.2 201.7 14.2 207.8 8.1 207.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 162.9 11 162.9 11 173.1 2.7 173.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 152.6 11 152.6 11 162.8 2.7 162.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 142.4 11 142.4 11 152.6 2.7 152.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 132.2 11 132.2 11 142.4 2.7 142.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 121.9 11 121.9 11 132.1 2.7 132.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 111.7 11 111.7 11 121.9 2.7 121.9"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 101.7 11 101.7 11 111.7 2.7 111.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 91.7 11 91.7 11 101.7 2.7 101.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 81 11 81 11 91.7 2.7 91.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 70.8 11 70.8 11 81 2.7 81"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 60.5 11 60.5 11 70.7 2.7 70.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="2.7 52 11 52 11 60.6 2.7 60.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 162.9 2.6 162.9 2.6 173.1 0.6 173.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 152.6 2.6 152.6 2.6 162.8 0.6 162.8"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 142.4 2.6 142.4 2.6 152.6 0.6 152.6"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 132.2 2.6 132.2 2.6 142.4 0.6 142.4"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 121.9 2.6 121.9 2.6 132.1 0.6 132.1"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 111.7 2.6 111.7 2.6 121.9 0.6 121.9"></polygon>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0.6" y="101.7" width="2" height="10"></rect>
+                        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0.6" y="91.7" width="2" height="10"></rect>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 81 2.6 81 2.6 91.7 0.6 91.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 70.8 2.6 70.8 2.6 81 0.6 81"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 60.5 2.6 60.5 2.6 70.7 0.6 70.7"></polygon>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" points="0.6 52 2.6 52 2.6 60.6 0.6 60.6"></polygon>
+                    </g>
+                    <g id="lines_4_" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <polyline id="Shape" stroke="#A8DDAF" opacity="0.332263765" points="277.4 381.7 277.4 165.7 367.5 165.7 367.5 228.4 398.2 228.4 398.2 39.1 464.8 39.1 464.8 138.4"></polyline>
+                        <polyline id="Shape" stroke="#A8DDAF" opacity="0.332263765" points="148.9 375.1 148.9 150.9 63.6 150.9 63.6 187.1 63.6 375.1"></polyline>
+                        <path d="M367.5,228.4 L367.5,372.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M398.2,228.4 L398.2,372.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M464.8,138.4 L464.8,372.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="11 51.9 26 51.9 26 56.5 11 56.5"></polygon>
+                        <path d="M22.1,51.9 L22.1,44.7" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M18.5,51.9 L18.5,49.2" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <polyline id="Shape" stroke="#A8DDAF" opacity="0.332263765" points="180.5 80.4 129.1 80.4 129.1 84.4 131.4 84.4 131.4 150.9"></polyline>
+                        <polyline id="Shape" stroke="#A8DDAF" opacity="0.332263765" points="73.8 150.9 73.8 143.8 112.1 143.8 112.1 150.9"></polyline>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="98.6 137.1 109.6 137.1 109.6 143.8 98.6 143.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="134 178.8 140.1 178.8 140.1 193.1 134 193.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="113.5 178.8 119.6 178.8 119.6 193.1 113.5 193.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 178.8 99.2 178.8 99.2 193.1 93.1 193.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 178.8 78.7 178.8 78.7 193.1 72.6 193.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="134 209.5 140.1 209.5 140.1 223.8 134 223.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 209.5 119.6 209.5 119.6 223.8 113.5 223.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 209.5 99.2 209.5 99.2 223.8 93.1 223.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="134 240.2 140.1 240.2 140.1 254.5 134 254.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 209.5 78.7 209.5 78.7 223.8 72.6 223.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 240.2 119.6 240.2 119.6 254.5 113.5 254.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 240.2 99.2 240.2 99.2 254.5 93.1 254.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 240.2 78.7 240.2 78.7 254.5 72.6 254.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="134 270.9 140.1 270.9 140.1 285.2 134 285.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 270.9 119.6 270.9 119.6 285.2 113.5 285.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 270.9 99.2 270.9 99.2 285.2 93.1 285.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 270.9 78.7 270.9 78.7 285.2 72.6 285.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="134 159.4 140.1 159.4 140.1 165.5 134 165.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="113.5 159.4 119.6 159.4 119.6 165.5 113.5 165.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 159.4 99.2 159.4 99.2 165.5 93.1 165.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="72.6 159.4 78.7 159.4 78.7 165.5 72.6 165.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="49.1 232 55.2 232 55.2 238.1 49.1 238.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 232 34.7 232 34.7 238.1 28.6 238.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 232 14.2 232 14.2 238.1 8.1 238.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="49.1 215.7 55.2 215.7 55.2 221.8 49.1 221.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 215.7 34.7 215.7 34.7 221.8 28.6 221.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 215.7 14.2 215.7 14.2 221.8 8.1 221.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="0.6 66 22 66 22 187.1 0.6 187.1"></polygon>
+                        <path d="M22.1,176.9 L0.6,176.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,166.6 L0.6,166.6" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,156.4 L0.6,156.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,146.2 L0.6,146.2" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,135.9 L0.6,135.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,125.7 L0.6,125.7" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,95 L0.6,95" id="Shape" stroke="#F4F4F4"></path>
+                        <path d="M22.1,84.8 L0.6,84.8" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,74.5 L0.6,74.5" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M11,66 L11,187.1" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="139.1 105.9 145.2 105.9 145.2 112 139.1 112"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 105.9 165.7 105.9 165.7 112 159.6 112"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="139.1 122.6 145.2 122.6 145.2 128.7 139.1 128.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 122.6 165.7 122.6 165.7 128.7 159.6 128.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="139.1 139 145.2 139 145.2 145.1 139.1 145.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 139 165.7 139 165.7 145.1 159.6 145.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 155.4 165.7 155.4 165.7 161.5 159.6 161.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 173.8 165.7 173.8 165.7 179.9 159.6 179.9"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="159.6 190.2 165.7 190.2 165.7 196.3 159.6 196.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 206.5 165.7 206.5 165.7 212.6 159.6 212.6"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 225 165.7 225 165.7 231.1 159.6 231.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 241.3 165.7 241.3 165.7 247.4 159.6 247.4"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 257.7 165.7 257.7 165.7 263.8 159.6 263.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 276.1 165.7 276.1 165.7 282.2 159.6 282.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="134 299.5 140.1 299.5 140.1 313.8 134 313.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 299.5 119.6 299.5 119.6 313.8 113.5 313.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 299.5 99.2 299.5 99.2 313.8 93.1 313.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 299.5 78.7 299.5 78.7 313.8 72.6 313.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="134 330.2 140.1 330.2 140.1 344.5 134 344.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 330.2 119.6 330.2 119.6 344.5 113.5 344.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 330.2 99.2 330.2 99.2 344.5 93.1 344.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 330.2 78.7 330.2 78.7 344.5 72.6 344.5"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="134 360.9 140.1 360.9 140.1 375.2 134 375.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="113.5 360.9 119.6 360.9 119.6 375.2 113.5 375.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="93.1 360.9 99.2 360.9 99.2 375.2 93.1 375.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="72.6 360.9 78.7 360.9 78.7 375.2 72.6 375.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 296.5 165.7 296.5 165.7 302.6 159.6 302.6"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 315 165.7 315 165.7 321.1 159.6 321.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 331.3 165.7 331.3 165.7 337.4 159.6 337.4"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 347.7 165.7 347.7 165.7 353.8 159.6 353.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="159.6 366.1 165.7 366.1 165.7 372.2 159.6 372.2"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 264 55.2 264 55.2 270.1 49.1 270.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 264 34.7 264 34.7 270.1 28.6 270.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 264 14.2 264 14.2 270.1 8.1 270.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="49.1 247.7 55.2 247.7 55.2 253.8 49.1 253.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 247.7 34.7 247.7 34.7 253.8 28.6 253.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 247.7 14.2 247.7 14.2 253.8 8.1 253.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 296 55.2 296 55.2 302.1 49.1 302.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 296 34.7 296 34.7 302.1 28.6 302.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 296 14.2 296 14.2 302.1 8.1 302.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 279.7 55.2 279.7 55.2 285.8 49.1 285.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="28.6 279.7 34.7 279.7 34.7 285.8 28.6 285.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="8.1 279.7 14.2 279.7 14.2 285.8 8.1 285.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 328 55.2 328 55.2 334.1 49.1 334.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="28.6 328 34.7 328 34.7 334.1 28.6 334.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 328 14.2 328 14.2 334.1 8.1 334.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 311.7 55.2 311.7 55.2 317.8 49.1 317.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="28.6 311.7 34.7 311.7 34.7 317.8 28.6 317.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 311.7 14.2 311.7 14.2 317.8 8.1 317.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 360 55.2 360 55.2 366.1 49.1 366.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="28.6 360 34.7 360 34.7 366.1 28.6 366.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 360 14.2 360 14.2 366.1 8.1 366.1"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="49.1 343.7 55.2 343.7 55.2 349.8 49.1 349.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#F4F4F4" points="28.6 343.7 34.7 343.7 34.7 349.8 28.6 349.8"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="8.1 343.7 14.2 343.7 14.2 349.8 8.1 349.8"></polygon>
+                        <path d="M131.4,84.4 L174.7,84.4" id="Shape" stroke="#F4F4F4"></path>
+                        <path d="M22.1,115.7 L0.6,115.7" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M22.1,105.7 L0.6,105.7" id="Shape" stroke="#F4F4F4"></path>
+                        <polyline id="Shape" stroke="#A8DDAF" opacity="0.332263765" points="2.7 56.5 30.8 56.5 30.8 187.1 0.6 187.1"></polyline>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="410.5 51.9 450.5 51.9 450.5 375.2 410.5 375.2"></polygon>
+                        <path d="M430.5,51.9 L430.5,376.6" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,71.9 L410.5,71.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,91.9 L410.5,91.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,111.9 L410.5,111.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,131.9 L410.5,131.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,151.9 L410.5,151.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,171.9 L410.5,171.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,191.9 L410.5,191.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,211.9 L410.5,211.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,231.9 L410.5,231.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,251.9 L410.5,251.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,271.9 L410.5,271.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,291.9 L410.5,291.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,311.9 L410.5,311.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,331.9 L410.5,331.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M450.5,351.9 L410.5,351.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M453.5,371.9 L413.5,371.9" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 236.2 392 236.2 392 242.3 385.9 242.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 236.2 380 236.2 380 242.3 373.9 242.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 250.2 392 250.2 392 256.3 385.9 256.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 250.2 380 250.2 380 256.3 373.9 256.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 264.2 392 264.2 392 270.3 385.9 270.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 264.2 380 264.2 380 270.3 373.9 270.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 278.2 392 278.2 392 284.3 385.9 284.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 278.2 380 278.2 380 284.3 373.9 284.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 292.2 392 292.2 392 298.3 385.9 298.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 292.2 380 292.2 380 298.3 373.9 298.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 306.2 392 306.2 392 312.3 385.9 312.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 306.2 380 306.2 380 312.3 373.9 312.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 320.2 392 320.2 392 326.3 385.9 326.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 320.2 380 320.2 380 326.3 373.9 326.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 334.2 392 334.2 392 340.3 385.9 340.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 334.2 380 334.2 380 340.3 373.9 340.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 348.2 392 348.2 392 354.3 385.9 354.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 348.2 380 348.2 380 354.3 373.9 354.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="385.9 362.2 392 362.2 392 368.3 385.9 368.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="373.9 362.2 380 362.2 380 368.3 373.9 368.3"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 180.4 360.3 180.4 360.3 194.7 354.2 194.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 180.4 346.3 180.4 346.3 194.7 340.2 194.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 210.4 360.3 210.4 360.3 224.7 354.2 224.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 210.4 346.3 210.4 346.3 224.7 340.2 224.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 240.4 360.3 240.4 360.3 254.7 354.2 254.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 240.4 346.3 240.4 346.3 254.7 340.2 254.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 270.4 360.3 270.4 360.3 284.7 354.2 284.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 270.4 346.3 270.4 346.3 284.7 340.2 284.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 300.4 360.3 300.4 360.3 314.7 354.2 314.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 300.4 346.3 300.4 346.3 314.7 340.2 314.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 360.4 360.3 360.4 360.3 374.7 354.2 374.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 360.4 346.3 360.4 346.3 374.7 340.2 374.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="354.2 330.4 360.3 330.4 360.3 344.7 354.2 344.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="340.2 330.4 346.3 330.4 346.3 344.7 340.2 344.7"></polygon>
+                        <path d="M280.4,0.4 L280.4,386.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M2.7,0.4 L2.7,386.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M174.7,0.4 L174.7,386.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M174.7,14.4 L2.7,14.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <path d="M174.7,372.4 L2.7,372.4" id="Shape" stroke="#A8DDAF" opacity="0.332263765"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 180.4 330.3 180.4 330.3 194.7 324.2 194.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 180.4 316.3 180.4 316.3 194.7 310.2 194.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 210.4 330.3 210.4 330.3 224.7 324.2 224.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 210.4 316.3 210.4 316.3 224.7 310.2 224.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 240.4 330.3 240.4 330.3 254.7 324.2 254.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 240.4 316.3 240.4 316.3 254.7 310.2 254.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 270.4 330.3 270.4 330.3 284.7 324.2 284.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 270.4 316.3 270.4 316.3 284.7 310.2 284.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 300.4 330.3 300.4 330.3 314.7 324.2 314.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 300.4 316.3 300.4 316.3 314.7 310.2 314.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 360.4 330.3 360.4 330.3 374.7 324.2 374.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 360.4 316.3 360.4 316.3 374.7 310.2 374.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="324.2 330.4 330.3 330.4 330.3 344.7 324.2 344.7"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" opacity="0.332263765" points="310.2 330.4 316.3 330.4 316.3 344.7 310.2 344.7"></polygon>
+                    </g>
+                </g>
+                <g id="background_2_">
+                    <g id="color_2_" transform="translate(6.000000, 0.000000)">
+                        <g id="XMLID_3_">
+                            <g id="Group">
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="374.4 204.4 374.4 220.4 350.7 220.4 350.7 204.4 362.7 204.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="622.4 194.4 622.4 210.4 606.4 210.4 590.4 210.4 590.4 194.4 606.4 194.4"></polygon>
+                                <polygon id="Shape" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="90.7 100.4 90.7 116.4 74.7 116.4 58.7 116.4 58.7 100.4 74.7 100.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="388.4 289.4 388.4 291.4 388.4 372.4 388.4 386.4 374.4 386.4 374.4 332.4 374.4 316.4 374.4 220.4 374.4 204.4 374.4 0.4 388.4 0.4 388.4 14.4 388.4 95.4 388.4 97.4 388.4 103.4 388.4 105.4 388.4 186.4 388.4 200.4 388.4 281.4 388.4 283.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="74.7 324.4 74.7 340.4 58.7 340.4 42.7 340.4 42.7 324.4 58.7 324.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="334.7 76.4 334.7 92.4 302.7 92.4 302.7 76.4 318.7 76.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="356.7 332.4 356.7 348.4 324.7 348.4 324.7 332.4 338.7 332.4 341.7 332.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="187.7" y="200.4" width="6" height="81"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="48.8 229.7 48.8 245.7 16.8 245.7 16.8 229.7 32.8 229.7"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="373.7 316.4 373.7 332.4 356.7 332.4 341.7 332.4 341.7 316.4 354.7 316.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="560.4 372.4 560.4 386.4 388.4 386.4 388.4 372.4 471.4 372.4 477.4 372.4"></polygon>
+                                <polygon id="Shape" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="195.7 186.4 276.7 186.4 276.7 200.4 193.7 200.4 187.7 200.4 104.7 200.4 104.7 186.4 185.7 186.4 187.7 186.4 193.7 186.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="471.4" y="291.4" width="6" height="81"></rect>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="574.4" y="356.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="606.4 210.4 606.4 226.4 590.4 226.4 574.4 226.4 574.4 210.4 590.4 210.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="338.7 316.4 338.7 332.4 324.7 332.4 306.7 332.4 306.7 316.4 322.7 316.4"></polygon>
+                                <polygon id="Shape" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="90.7 68.4 90.7 84.4 74.7 84.4 58.7 84.4 58.7 68.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="354.7 300.4 354.7 316.4 341.7 316.4 338.7 316.4 322.7 316.4 322.7 300.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="104.7 105.4 104.7 186.4 104.7 200.4 104.7 281.4 104.7 283.4 104.7 289.4 104.7 291.4 104.7 372.4 104.7 386.4 90.7 386.4 90.7 372.4 90.7 356.4 90.7 340.4 90.7 324.4 90.7 308.4 90.7 116.4 90.7 100.4 90.7 84.4 90.7 68.4 90.7 0.4 104.7 0.4 104.7 14.4 104.7 95.4 104.7 97.4 104.7 103.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="574.4 372.4 574.4 386.4 560.4 386.4 560.4 372.4 560.4 291.4 560.4 289.4 560.4 283.4 560.4 281.4 560.4 200.4 560.4 186.4 560.4 105.4 560.4 103.4 560.4 97.4 560.4 95.4 560.4 14.4 560.4 0.4 574.4 0.4 574.4 178.4 574.4 194.4 574.4 210.4 574.4 226.4 574.4 308.4 574.4 324.4 574.4 340.4 574.4 356.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="185.7 103.4 195.7 103.4 195.7 105.4 193.7 105.4 187.7 105.4 185.7 105.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="479.4 95.4 479.4 97.4 469.4 97.4 469.4 95.4 471.4 95.4 477.4 95.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="90.7 340.4 90.7 356.4 74.7 356.4 58.7 356.4 58.7 340.4 74.7 340.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="469.4 186.4 471.4 186.4 477.4 186.4 479.4 186.4 560.4 186.4 560.4 200.4 479.4 200.4 477.4 200.4 471.4 200.4 469.4 200.4 388.4 200.4 388.4 186.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="187.7" y="291.4" width="6" height="81"></rect>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="74.7" y="356.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="290.7 316.4 290.7 386.4 276.7 386.4 276.7 372.4 276.7 291.4 276.7 289.4 276.7 283.4 276.7 281.4 276.7 200.4 276.7 186.4 276.7 105.4 276.7 103.4 276.7 97.4 276.7 95.4 276.7 14.4 276.7 0.4 290.7 0.4 290.7 60.4 290.7 76.4 290.7 300.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="606.4 308.4 606.4 324.4 590.4 324.4 574.4 324.4 574.4 308.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="560.4 289.4 560.4 291.4 477.4 291.4 477.4 289.4 471.4 289.4 471.4 291.4 388.4 291.4 388.4 289.4 388.4 283.4 388.4 281.4 469.4 281.4 469.4 283.4 479.4 283.4 479.4 281.4 560.4 281.4 560.4 283.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="276.7 103.4 276.7 105.4 195.7 105.4 195.7 103.4 185.7 103.4 185.7 105.4 104.7 105.4 104.7 103.4 104.7 97.4 104.7 95.4 185.7 95.4 185.7 97.4 195.7 97.4 195.7 95.4 276.7 95.4 276.7 97.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="479.4 281.4 479.4 283.4 469.4 283.4 469.4 281.4 471.4 281.4 477.4 281.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="574.4" y="194.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="635.4 99.4 635.4 115.4 603.4 115.4 603.4 99.4 619.4 99.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="276.7 372.4 276.7 386.4 104.7 386.4 104.7 372.4 187.7 372.4 193.7 372.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="74.7 84.4 74.7 100.4 58.7 100.4 42.7 100.4 42.7 84.4 58.7 84.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="560.4 97.4 560.4 103.4 560.4 105.4 479.4 105.4 479.4 103.4 469.4 103.4 469.4 105.4 388.4 105.4 388.4 103.4 388.4 97.4 388.4 95.4 469.4 95.4 469.4 97.4 479.4 97.4 479.4 95.4 560.4 95.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="276.7 289.4 276.7 291.4 193.7 291.4 193.7 289.4 187.7 289.4 187.7 291.4 104.7 291.4 104.7 289.4 104.7 283.4 104.7 281.4 187.7 281.4 187.7 283.4 193.7 283.4 193.7 281.4 276.7 281.4 276.7 283.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="318.7 60.4 318.7 76.4 302.7 76.4 290.7 76.4 290.7 60.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="560.4 0.4 560.4 14.4 479.4 14.4 477.4 14.4 471.4 14.4 469.4 14.4 388.4 14.4 388.4 0.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="477.4 14.4 479.4 14.4 479.4 95.4 477.4 95.4 471.4 95.4 469.4 95.4 469.4 14.4 471.4 14.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="622.4 324.4 622.4 340.4 606.4 340.4 590.4 340.4 590.4 324.4 606.4 324.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="276.7 0.4 276.7 14.4 195.7 14.4 193.7 14.4 187.7 14.4 185.7 14.4 104.7 14.4 104.7 0.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="195.7 14.4 195.7 95.4 193.7 95.4 187.7 95.4 185.7 95.4 185.7 14.4 187.7 14.4 193.7 14.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="479.4 200.4 479.4 281.4 477.4 281.4 471.4 281.4 469.4 281.4 469.4 200.4 471.4 200.4 477.4 200.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="187.7" y="281.4" width="6" height="2"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="322.7 300.4 322.7 316.4 306.7 316.4 290.7 316.4 290.7 300.4"></polygon>
+                                <rect id="Rectangle-path" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="74.7" y="84.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="479.4 105.4 479.4 186.4 477.4 186.4 471.4 186.4 469.4 186.4 469.4 105.4 471.4 105.4 477.4 105.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="187.7" y="289.4" width="6" height="2"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="606.4 178.4 606.4 194.4 590.4 194.4 574.4 194.4 574.4 178.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="90.7 308.4 90.7 324.4 74.7 324.4 58.7 324.4 58.7 308.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="574.4" y="324.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="477.4 105.4 471.4 105.4 469.4 105.4 469.4 103.4 479.4 103.4 479.4 105.4"></polygon>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="374.4 332.4 374.4 386.4 290.7 386.4 290.7 316.4 306.7 316.4 306.7 332.4 324.7 332.4 324.7 348.4 356.7 348.4 356.7 332.4 373.7 332.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="195.7 95.4 195.7 97.4 185.7 97.4 185.7 95.4 187.7 95.4 193.7 95.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="32.8 213.7 32.8 229.7 16.8 229.7 0.8 229.7 0.8 213.7"></polygon>
+                                <polygon id="Shape" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="64.8 213.7 64.8 229.7 48.8 229.7 32.8 229.7 32.8 213.7"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="471.4" y="289.4" width="6" height="2"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="606.4 340.4 606.4 356.4 590.4 356.4 574.4 356.4 574.4 340.4 590.4 340.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="195.7 105.4 195.7 186.4 193.7 186.4 187.7 186.4 185.7 186.4 185.7 105.4 187.7 105.4 193.7 105.4"></polygon>
+                                <polygon id="Shape" stroke="#A8DDAF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="362.7 188.4 362.7 204.4 350.7 204.4 330.7 204.4 330.7 188.4"></polygon>
+                                <rect id="Rectangle-path" fill="#F7F7F7" fill-rule="nonzero" x="74.7" y="324.4" width="16" height="16"></rect>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="619.4 83.4 619.4 99.4 603.4 99.4 587.4 99.4 587.4 83.4"></polygon>
+                                <polygon id="Shape" fill="#F7F7F7" fill-rule="nonzero" points="350.7 60.4 350.7 76.4 334.7 76.4 318.7 76.4 318.7 60.4"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="lines_3_" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M665,386.4 L28.3,386.4" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="380.4" y="0.4" width="200" height="386"></rect>
+                        <path d="M566.4,0.4 L566.4,386.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,0.4 L394.4,386.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,14.4 L566.4,14.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,372.4 L566.4,372.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,200.4 L566.4,200.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,186.4 L566.4,186.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,95.4 L566.4,95.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M394.4,105.4 L566.4,105.4" id="Shape" stroke="#A8DDAF"></path>
+                        <g id="Group" transform="translate(475.000000, 14.000000)" stroke="#A8DDAF">
+                            <path d="M0.4,81.4 L0.4,0.4" id="Shape"></path>
+                            <path d="M0.4,172.4 L0.4,91.4" id="Shape"></path>
+                            <path d="M0.4,267.4 L0.4,186.4" id="Shape"></path>
+                            <path d="M0.4,358.4 L0.4,277.4" id="Shape"></path>
+                        </g>
+                        <g id="Group" transform="translate(485.000000, 14.000000)" stroke="#A8DDAF">
+                            <path d="M0.4,81.4 L0.4,0.4" id="Shape"></path>
+                            <path d="M0.4,172.4 L0.4,91.4" id="Shape"></path>
+                            <path d="M0.4,267.4 L0.4,186.4" id="Shape"></path>
+                            <path d="M0.4,358.4 L0.4,277.4" id="Shape"></path>
+                        </g>
+                        <path d="M566.4,291.4 L394.4,291.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M566.4,281.4 L394.4,281.4" id="Shape" stroke="#E8E8E8"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="580.4" y="340.4" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="596.4" y="324.4" width="32" height="16"></rect>
+                        <polyline id="Shape" stroke="#A8DDAF" points="580.4 340.4 596.4 340.4 596.4 324.4 580.4 324.4"></polyline>
+                        <polyline id="Shape" stroke="#A8DDAF" points="580.4 372.4 596.4 372.4 596.4 356.4 580.4 356.4"></polyline>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="580.4" y="308.4" width="32" height="16"></rect>
+                        <path d="M628.4,340.4 L637.9,340.4" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="580.4" y="210.4" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="596.4" y="194.4" width="32" height="16"></rect>
+                        <polyline id="Shape" stroke="#A8DDAF" points="580.4 210.4 596.4 210.4 596.4 194.4 580.4 194.4"></polyline>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="580.4" y="178.4" width="32" height="16"></rect>
+                        <path d="M628.4,210.4 L637.9,210.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M596.4,226.4 L596.4,231.9" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="609.4" y="99.4" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" x="593.4" y="83.4" width="32" height="16"></rect>
+                        <path d="M609.4,115.4 L601.9,115.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M641.4,115.4 L647.7,115.4" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(196.640800, 193.355200) rotate(-180.000000) translate(-196.640800, -193.355200) " x="96.6408" y="0.355199989" width="200" height="386"></rect>
+                        <path d="M110.7,0.4 L110.7,386.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,0.4 L282.7,386.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,14.4 L110.7,14.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,372.4 L110.7,372.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,200.4 L110.7,200.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,186.4 L110.7,186.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,95.4 L110.7,95.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M282.7,105.4 L110.7,105.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M201.7,14.4 L201.7,95.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M201.7,105.4 L201.7,186.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M191.7,14.4 L191.7,95.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M191.7,105.4 L191.7,186.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M201.7,200.4 L201.7,283.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M199.7,289.4 L199.7,372.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M191.7,200.4 L191.7,283.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M193.7,289.4 L193.7,372.4" id="Shape" stroke="#E8E8E8"></path>
+                        <path d="M110.7,291.4 L282.7,291.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M110.7,281.4 L282.7,281.4" id="Shape" stroke="#A8DDAF"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(80.640800, 348.355200) rotate(-180.000000) translate(-80.640800, -348.355200) " points="64.6408 340.3552 96.6408 340.3552 96.6408 356.3552 64.6408 356.3552"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(64.640800, 332.355200) rotate(-180.000000) translate(-64.640800, -332.355200) " points="48.6408 324.3552 80.6408 324.3552 80.6408 340.3552 48.6408 340.3552"></polygon>
+                        <polyline id="Shape" stroke="#A8DDAF" points="96.7 324.4 80.7 324.4 80.7 340.4 96.7 340.4"></polyline>
+                        <polyline id="Shape" stroke="#A8DDAF" points="96.7 356.4 80.7 356.4 80.7 372.4 96.7 372.4"></polyline>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(80.640800, 316.355200) rotate(-180.000000) translate(-80.640800, -316.355200) " points="64.6408 308.3552 96.6408 308.3552 96.6408 324.3552 64.6408 324.3552"></polygon>
+                        <path d="M48.7,340.4 L39.2,340.4" id="Shape" stroke="#A8DDAF"></path>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(80.640800, 108.355200) rotate(-180.000000) translate(-80.640800, -108.355200) " points="64.6408 100.3552 96.6408 100.3552 96.6408 116.3552 64.6408 116.3552"></polygon>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(64.640800, 92.355200) rotate(-180.000000) translate(-64.640800, -92.355200) " points="48.6408 84.3552 80.6408 84.3552 80.6408 100.3552 48.6408 100.3552"></polygon>
+                        <polyline id="Shape" stroke="#A8DDAF" points="96.7 84.4 80.7 84.4 80.7 100.4 96.7 100.4"></polyline>
+                        <polygon id="Rectangle-path" stroke="#A8DDAF" transform="translate(80.640800, 76.355200) rotate(-180.000000) translate(-80.640800, -76.355200) " points="64.6408 68.3552 96.6408 68.3552 96.6408 84.3552 64.6408 84.3552"></polygon>
+                        <path d="M48.7,100.4 L39.2,100.4" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M80.7,116.4 L80.7,121.9" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(38.896100, 237.667900) rotate(-180.000000) translate(-38.896100, -237.667900) " x="22.8961" y="229.6679" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(54.896100, 221.667900) rotate(-180.000000) translate(-54.896100, -221.667900) " x="38.8961" y="213.6679" width="32" height="16"></rect>
+                        <path d="M54.8,245.7 L62.3,245.7" id="Shape" stroke="#A8DDAF"></path>
+                        <path d="M22.8,245.7 L16.6,245.7" id="Shape" stroke="#A8DDAF"></path>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(22.896100, 221.667900) rotate(-180.000000) translate(-22.896100, -221.667900) " x="6.89610002" y="213.6679" width="32" height="16"></rect>
+                        <path d="M6.8,229.7 L0.5,229.7" id="Shape" stroke="#E8E8E8"></path>
+                        <rect id="Rectangle-path" stroke="#E8E8E8" transform="translate(328.640800, 324.355200) rotate(-180.000000) translate(-328.640800, -324.355200) " x="312.6408" y="316.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#E8E8E8" transform="translate(344.640800, 308.355200) rotate(-180.000000) translate(-344.640800, -308.355200) " x="328.6408" y="300.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#E8E8E8" transform="translate(312.640800, 308.355200) rotate(-180.000000) translate(-312.640800, -308.355200) " x="296.6408" y="300.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#E8E8E8" transform="translate(363.640800, 324.355200) rotate(-180.000000) translate(-363.640800, -324.355200) " x="347.6408" y="316.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#E8E8E8" transform="translate(346.640800, 340.355200) rotate(-180.000000) translate(-346.640800, -340.355200) " x="330.6408" y="332.3552" width="32" height="16"></rect>
+                        <polyline id="Shape" stroke="#A8DDAF" points="380.4 220.4 356.7 220.4 356.7 204.4 380.4 204.4"></polyline>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(352.640800, 196.355200) rotate(-180.000000) translate(-352.640800, -196.355200) " x="336.6408" y="188.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(324.640800, 84.355200) rotate(-180.000000) translate(-324.640800, -84.355200) " x="308.6408" y="76.3552" width="32" height="16"></rect>
+                        <rect id="Rectangle-path" stroke="#A8DDAF" transform="translate(340.640800, 68.355200) rotate(-180.000000) translate(-340.640800, -68.355200) " x="324.6408" y="60.3552" width="32" height="16"></rect>
+                        <polyline id="Shape" stroke="#A8DDAF" points="296.7 60.4 324.7 60.4 324.7 76.4 296.7 76.4"></polyline>
+                    </g>
+                </g>
+                <g id="main" transform="translate(148.000000, 95.000000)">
+                    <g id="color_4_" fill-rule="nonzero">
+                        <g id="XMLID_5_">
+                            <g id="Group">
+                                <polygon id="Shape" fill="#B37F59" points="320 152.8 320 158.8 314 158.8 264 158.8 214 158.8 164 158.8 114 158.8 108 158.8 108 152.8 125 152.8 143 152.8 166.1 152.8 174.1 152.8 214 152.8 230.6 152.8 288 152.8 296.9 152.8 308 152.8"></polygon>
+                                <path d="M314,158.8 L314,174.8 L280,174.8 L274,174.8 L264,174.8 L264,158.8 L314,158.8 Z M292,166.8 C292,165.1 290.7,163.8 289,163.8 C287.4,163.8 286,165.1 286,166.8 C286,168.5 287.4,169.8 289,169.8 C290.7,169.8 292,168.5 292,166.8 Z" id="Shape" fill="#B37F59"></path>
+                                <path d="M311,136.8 L311,144.8 L308,144.8 L301.3,144.8 C301.5,143.3 301.3,141.9 300.8,140.8 C300.4,141.4 299.4,143.1 297.5,144.8 L295,144.8 L295,136.8 L311,136.8 Z" id="Shape" fill="#D86B68"></path>
+                                <path d="M308,144.8 L308,152.8 L296.9,152.8 C298.6,152.8 300.9,148.6 301.3,144.8 L308,144.8 Z" id="Shape" fill="#D86B68"></path>
+                                <path d="M291,148.8 C293.9,147.7 296,146.2 297.5,144.8 C299.4,143.1 300.4,141.4 300.8,140.8 C301.3,141.9 301.5,143.3 301.3,144.8 C300.9,148.6 298.6,152.8 296.9,152.8 L288,152.8 L230.5,152.8 C236,152.8 239.9,146.2 254,146.7 C255.8,146.8 257.9,147 260.1,147.3 C262.2,147.6 264.5,148.1 267,148.7 C278.2,151.6 285.9,150.8 291,148.8 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M295,144.8 L297.5,144.8 C296,146.2 293.9,147.7 291,148.8 C290,148.4 289.1,148.1 288,147.8 L288,144.8 L295,144.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <polygon id="Shape" fill="#D86B68" points="295 136.8 295 144.8 288 144.8 285 144.8 285 136.8"></polygon>
+                                <path d="M289,163.8 C290.7,163.8 292,165.1 292,166.8 C292,168.5 290.7,169.8 289,169.8 C287.4,169.8 286,168.5 286,166.8 C286,165.1 287.4,163.8 289,163.8 Z" id="Shape" fill="#664E3D"></path>
+                                <path d="M288,147.8 C289,148.1 290,148.5 291,148.8 C285.9,150.8 278.2,151.6 267,148.8 C264.5,148.2 262.2,147.7 260.1,147.4 C260.8,147.2 261.4,147.1 262,146.9 C271.8,144.7 280.7,145.5 288,147.8 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M278,266.8 C279.6,266.8 281,268.1 281,269.8 C281,271.5 279.6,272.8 278,272.8 L276,272.8 L276,266.8 L278,266.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <polygon id="Shape" fill="#B37F59" points="280 174.8 280 179.8 272 179.8 266 179.8 217 179.8 214 179.8 211 179.8 162 179.8 156 179.8 148 179.8 148 174.8 154 174.8 164 174.8 214 174.8 264 174.8 274 174.8"></polygon>
+                                <polygon id="Shape" fill="#B37F59" points="276 272.8 276 286.8 271.5 286.8 266.5 286.8 262 286.8 262 274.8 262 264.8 276 264.8 276 266.8"></polygon>
+                                <polygon id="Shape" fill="#FFFFFF" points="275.2 80.4 256.7 88.1 255 84 273.5 76.3"></polygon>
+                                <path d="M271.5,291.5 C273,292.4 274,294 274,295.8 C274,298.6 271.8,300.8 269,300.8 C266.2,300.8 264,298.6 264,295.8 C264,294 265,292.3 266.5,291.5 C267.2,291.1 268.1,290.8 269,290.8 C269.9,290.8 270.8,291 271.5,291.5 Z" id="Shape" fill="#664E3D"></path>
+                                <polygon id="Shape" fill="#B37F59" points="272 179.8 272 200.8 262 200.8 254 200.8 214 200.8 174.1 200.8 166.1 200.8 156 200.8 156 179.8 162 179.8 162 195.8 209 195.8 211 195.8 217 195.8 219 195.8 266 195.8 266 179.8"></polygon>
+                                <path d="M271.5,286.8 L271.5,291.5 C270.8,291.1 269.9,290.8 269,290.8 C268.1,290.8 267.2,291 266.5,291.5 L266.5,286.8 L271.5,286.8 Z" id="Shape" fill="#98745A"></path>
+                                <path d="M264,228.8 C265.6,228.8 267,230.1 267,231.8 C267,233.5 265.6,234.8 264,234.8 L262,234.8 L262,228.8 L264,228.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <path d="M266,179.8 L266,195.8 L219,195.8 L217,195.8 L217,179.8 L266,179.8 Z M247,187.8 C247,186.1 245.7,184.8 244,184.8 C242.4,184.8 241,186.1 241,187.8 C241,189.5 242.4,190.8 244,190.8 C245.7,190.8 247,189.5 247,187.8 Z" id="Shape" fill="#B37F59"></path>
+                                <path d="M264,158.8 L264,174.8 L214,174.8 L214,158.8 L264,158.8 Z M242,166.8 C242,165.1 240.7,163.8 239,163.8 C237.4,163.8 236,165.1 236,166.8 C236,168.5 237.4,169.8 239,169.8 C240.7,169.8 242,168.5 242,166.8 Z" id="Shape" fill="#B37F59"></path>
+                                <polygon id="Shape" fill="#B37F59" points="262 264.8 262 274.8 254 274.8 254 272.8 254 266.8 254 234.8 254 228.8 254 216.8 254 200.8 262 200.8 262 228.8 262 234.8"></polygon>
+                                <path d="M254,266.8 L254,272.8 L252,272.8 C250.3,272.8 249,271.5 249,269.8 C249,268.1 250.3,266.8 252,266.8 L254,266.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <polygon id="Shape" fill="#B37F59" points="254 228.8 254 234.8 174.1 234.8 174.1 228.8 180.1 228.8 248 228.8"></polygon>
+                                <rect id="Rectangle-path" fill="#B37F59" x="248" y="216.8" width="6" height="12"></rect>
+                                <path d="M244,184.8 C245.7,184.8 247,186.1 247,187.8 C247,189.5 245.7,190.8 244,190.8 C242.4,190.8 241,189.5 241,187.8 C241,186.1 242.4,184.8 244,184.8 Z" id="Shape" fill="#664E3D"></path>
+                                <path d="M239,163.8 C240.7,163.8 242,165.1 242,166.8 C242,168.5 240.7,169.8 239,169.8 C237.4,169.8 236,168.5 236,166.8 C236,165.1 237.4,163.8 239,163.8 Z" id="Shape" fill="#664E3D"></path>
+                                <circle id="Oval" fill="#FFFFFF" cx="222.2" cy="85.7" r="4.7"></circle>
+                                <polygon id="Shape" fill="#B37F59" points="217 179.8 217 195.8 211 195.8 211 179.8 214 179.8"></polygon>
+                                <polygon id="Shape" fill="#FFFFFF" points="213.4 73.2 216 76.6 211.8 76.6 209.3 80 208 76 204 74.8 207.4 72.3 207.3 68.1 210.8 70.6 214.8 69.2"></polygon>
+                                <path d="M214,158.8 L214,174.8 L164,174.8 L164,158.8 L214,158.8 Z M192,166.8 C192,165.1 190.7,163.8 189,163.8 C187.3,163.8 186,165.1 186,166.8 C186,168.5 187.3,169.8 189,169.8 C190.7,169.8 192,168.5 192,166.8 Z" id="Shape" fill="#B37F59"></path>
+                                <polygon id="Rectangle-path" fill="#FFFFFF" points="204.5 89.7 213.6 89.7 213.6 98.8 204.5 98.8"></polygon>
+                                <path d="M211,179.8 L211,195.8 L209,195.8 L162,195.8 L162,179.8 L211,179.8 Z M187,187.8 C187,186.1 185.7,184.8 184,184.8 C182.3,184.8 181,186.1 181,187.8 C181,189.5 182.3,190.8 184,190.8 C185.7,190.8 187,189.5 187,187.8 Z" id="Shape" fill="#B37F59"></path>
+                                <path d="M201.1,36.9 L202.7,42.7 C202.7,42.7 182.2,50.3 174.8,50.3 C173.2,50.3 171.6,48.3 170.1,45.2 C171.1,44.5 172.2,43.8 173.4,43.1 C179,39.9 186.5,37.6 193,36.8 C196,36.5 198.8,36.5 201.1,36.9 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M177,28.1 L193,36.9 C186.5,37.7 179,40 173.4,43.2 L175.9,33 L177,28.1 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M191.1,0.3 L192.9,6.7 C190.2,6.4 186.6,4.9 185.5,1.9 L191.1,0.3 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M189,163.8 C190.7,163.8 192,165.1 192,166.8 C192,168.5 190.7,169.8 189,169.8 C187.3,169.8 186,168.5 186,166.8 C186,165.1 187.4,163.8 189,163.8 Z" id="Shape" fill="#664E3D"></path>
+                                <path d="M183,98.3 C185.5,98.2 188.1,97.8 191.3,96.5 L191.3,106.2 L159.3,106.2 L159.3,98 C162.4,97.1 165.1,96.7 167.5,96.7 C173.3,96.6 177.5,98.5 183,98.3 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M184,184.8 C185.7,184.8 187,186.1 187,187.8 C187,189.5 185.7,190.8 184,190.8 C182.3,190.8 181,189.5 181,187.8 C181,186.1 182.4,184.8 184,184.8 Z" id="Shape" fill="#664E3D"></path>
+                                <circle id="Oval" fill="#FFFFFF" cx="183.6" cy="13.8" r="3.5"></circle>
+                                <path d="M164,91 C163.7,89.9 163.5,88.7 163.7,87.7 C166.7,89.2 171.4,90.8 175.6,91.9 C179.7,93 183.4,93.6 184.7,93.4 C184.8,94.7 183.9,97.4 183,98.3 C177.6,98.4 173.3,96.6 167.5,96.7 C166.2,95.7 164.7,93.4 164,91 Z" id="Shape" fill="#FFFFFF"></path>
+                                <rect id="Rectangle-path" fill="#B37F59" x="174.1" y="216.8" width="6" height="12"></rect>
+                                <path d="M176.1,266.8 C177.8,266.8 179.1,268.1 179.1,269.8 C179.1,271.5 177.8,272.8 176.1,272.8 L174.1,272.8 L174.1,266.8 L176.1,266.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <path d="M175.6,74.7 L175.6,87.7 C170.6,87.4 169.6,85 169.8,81 C169.9,77 171,73.7 175.6,74.7 Z" id="Shape" fill="#FFFFFF"></path>
+                                <polygon id="Shape" fill="#B37F59" points="174.1 272.8 174.1 274.8 166.1 274.8 166.1 264.8 166.1 234.8 166.1 228.8 166.1 200.8 174.1 200.8 174.1 216.8 174.1 228.8 174.1 234.8 174.1 266.8"></polygon>
+                                <polygon id="Shape" fill="#B37F59" points="166.1 274.8 166.1 286.8 161.6 286.8 156.6 286.8 152.1 286.8 152.1 272.8 152.1 266.8 152.1 264.8 166.1 264.8"></polygon>
+                                <path d="M166.1,228.8 L166.1,234.8 L164.1,234.8 C162.5,234.8 161.1,233.5 161.1,231.8 C161.1,230.1 162.5,228.8 164.1,228.8 L166.1,228.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <path d="M165.5,7.3 C165.7,10.1 164.7,14.2 161.6,15.6 C160.7,11.5 160.3,8.7 160.3,8.7 L165.5,7.3 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M164,158.8 L164,174.8 L154,174.8 L148,174.8 L114,174.8 L114,158.8 L164,158.8 Z M142,166.8 C142,165.1 140.7,163.8 139,163.8 C137.3,163.8 136,165.1 136,166.8 C136,168.5 137.3,169.8 139,169.8 C140.7,169.8 142,168.5 142,166.8 Z" id="Shape" fill="#B37F59"></path>
+                                <path d="M161.6,291.5 C163.1,292.4 164.1,294 164.1,295.8 C164.1,298.6 161.9,300.8 159.1,300.8 C156.3,300.8 154.1,298.6 154.1,295.8 C154.1,294 155.1,292.3 156.6,291.5 C157.3,291.1 158.2,290.8 159.1,290.8 C160,290.8 160.8,291 161.6,291.5 Z" id="Shape" fill="#664E3D"></path>
+                                <path d="M161.6,286.8 L161.6,291.5 C160.9,291.1 160,290.8 159.1,290.8 C158.2,290.8 157.3,291 156.6,291.5 L156.6,286.8 L161.6,286.8 Z" id="Shape" fill="#98745A"></path>
+                                <path d="M152.1,266.8 L152.1,272.8 L150.1,272.8 C148.5,272.8 147.1,271.5 147.1,269.8 C147.1,268.1 148.5,266.8 150.1,266.8 L152.1,266.8 Z" id="Shape" fill="#FFDEAE"></path>
+                                <path d="M146.1,109.2 C147.6,113.3 148.6,119.1 143.9,118 C141.5,117.4 143.7,111.5 146.1,109.2 Z" id="Shape" fill="#B0F2B7"></path>
+                                <polygon id="Shape" fill="#D86B68" points="144 130.8 143.8 135.8 124.3 135.8 124 130.8 128.8 130.8 134.1 130.8 137.9 130.8 141.4 130.8"></polygon>
+                                <polygon id="Shape" fill="#D86B68" points="143.8 135.8 143 152.8 125 152.8 124.3 135.8"></polygon>
+                                <path d="M139,163.8 C140.7,163.8 142,165.1 142,166.8 C142,168.5 140.7,169.8 139,169.8 C137.3,169.8 136,168.5 136,166.8 C136,165.1 137.4,163.8 139,163.8 Z" id="Shape" fill="#664E3D"></path>
+                                <path d="M140.9,109 C142.7,112.8 144.1,118.2 140.1,118 C139.9,118 139.7,118 139.5,117.9 C137.4,117.5 138.3,112.9 140.1,110.1 C140.3,109.7 140.6,109.3 140.9,109 Z" id="Shape" fill="#95D4F2"></path>
+                                <polygon id="Shape" fill="#98745A" points="132.7 110.9 134.2 115.6 129.8 117 125 118.5 120.8 119.8 119.4 115 120.3 114.7 131.8 111.1"></polygon>
+                                <polygon id="Shape" fill="#98745A" points="129.8 117 134.1 130.8 128.8 130.8 125 118.5"></polygon>
+                                <polygon id="Shape" fill="#FECD51" points="120.3 102.1 129.2 99.4 131.8 111.1 120.3 114.7 115.8 103.5"></polygon>
+                                <path d="M92.1,157.5 L92.1,292.5 L82.1,292.5 L76.1,292.5 L18.1,292.5 L12.1,292.5 L2.1,292.5 L2.1,157.5 L27.1,157.5 L67.1,157.5 L92.1,157.5 Z M85.1,285.5 L85.1,197.5 L9.1,197.5 L9.1,285.5 L85.1,285.5 Z M85.1,190.5 L85.1,164.5 L9.1,164.5 L9.1,190.5 L85.1,190.5 Z" id="Shape" fill="#98745A"></path>
+                                <path d="M89.1,114.8 C85.1,114.6 77.4,118.6 80.6,114.1 C83.3,111.7 87.1,109.8 89.1,114.8 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M85.1,197.5 L85.1,285.5 L9.1,285.5 L9.1,197.5 L85.1,197.5 Z M78.1,249.5 L78.1,233.5 L71.1,233.5 L71.1,249.5 L78.1,249.5 Z" id="Shape" fill="#98745A"></path>
+                                <path d="M85.1,164.5 L85.1,190.5 L9.1,190.5 L9.1,164.5 L85.1,164.5 Z M55.1,181 L55.1,174 L39.1,174 L39.1,181 L55.1,181 Z" id="Shape" fill="#98745A"></path>
+                                <path d="M83.2,95.9 C83.7,99.7 81.4,104.4 77.6,104.5 C77.2,104.5 76.9,104.5 76.7,104.4 C74.5,103.7 79.7,96.7 83.2,95.9 Z" id="Shape" fill="#B0F2B7"></path>
+                                <polygon id="Rectangle-path" fill="#664E3D" points="76.1 292.5 82.1 292.5 82.1 300.8 76.1 300.8"></polygon>
+                                <path d="M81.1,122.8 C74.3,124.3 72.9,120.9 74,118.8 C75,116.2 80.1,120.9 81.1,122.8 Z" id="Shape" fill="#76BD65"></path>
+                                <rect id="Rectangle-path" fill="#664E3D" x="71.1" y="233.5" width="7" height="16"></rect>
+                                <path d="M77.3,110.2 C73.4,112.8 70.6,111.7 69.3,109.6 C68.9,108.9 68.6,108.2 68.5,107.4 C69.6,107.5 70.9,107.6 71.9,107.4 C72.5,107.2 73,107.4 73.4,107.7 C74.4,108.5 75,110.1 77.3,110.2 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M72,107.4 C70.9,107.6 69.7,107.5 68.6,107.4 C65.1,106.9 62.1,105.1 64.5,102.7 C67.6,100.4 72,103 72,107.4 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M47.1,129.1 C47.9,128.9 48.6,128.7 49.5,128.4 C47.2,123.7 43.8,123.1 39.8,125 C38.3,128.6 42,130.3 47.1,129.1 Z M47.7,131.6 C47.6,131.6 47.6,131.6 47.7,131.6 C47.5,131.7 47.4,131.8 47.3,131.9 C44.2,134.6 49.6,137.9 55,134.1 C50.8,135 51.1,131.5 47.7,131.6 Z M51.7,118.5 L54.6,118.5 L69.1,118.5 L65.1,150.5 L29.1,150.5 L25.1,118.5 L37.2,118.5 L40.2,118.5 L42.6,118.5 L48.1,118.5 L48.5,118.5 L49.2,118.5 L50.7,118.5 L51.7,118.5 Z M57.5,125.8 C55.5,127.8 61.7,130.6 65,129.5 C64.9,127.8 61.4,124.6 58.7,125 C58.2,125.2 57.8,125.5 57.5,125.8 Z M35.2,123.5 C37.2,121.6 37.5,119.4 34.3,118.8 C30.4,119.4 30.7,124.6 28.2,126.8 C31.1,126.4 33.7,125 35.2,123.5 Z M42.5,132.6 C37.9,131.8 32.6,134.9 32.1,135.4 C35.4,137.8 42.4,138.3 42.5,132.6 Z" id="Shape" fill="#95D4F2"></path>
+                                <polygon id="Shape" fill="#95D4F2" points="69.1 150.5 67.1 157.5 27.1 157.5 25.1 150.5 29.1 150.5 65.1 150.5"></polygon>
+                                <path d="M61.1,93.5 C62.1,90.4 66,90.4 67.1,94.8 C63.9,96.8 61,97.4 59.5,97.1 C57.6,96.8 57.6,95.3 61.1,93.5 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M65,129.5 C61.7,130.6 55.5,127.8 57.5,125.8 C57.8,125.5 58.2,125.3 58.7,125.1 C61.4,124.6 65,127.8 65,129.5 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M58.8,89 C59.3,84.2 62.4,82.9 66.4,85 C62.9,85.7 59.1,93.2 58.8,89 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M60.2,113.4 C61.1,114.4 61.7,115.9 61.5,117.7 C59.2,117.9 57.4,117.3 56.3,116.3 C55.4,115.6 55,114.6 55,113.6 C56.1,111.2 58.6,111.6 60.2,113.4 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M60.8,105.9 C57.6,106.6 51,105.4 52.8,103.2 C53,102.9 53.4,102.6 54,102.3 C56.6,101 59.8,102.3 60.8,105.9 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M56.3,86.9 C53.7,89.2 50.7,85.8 47.5,86.4 C50.2,81.3 55.3,83 56.3,86.9 Z" id="Shape" fill="#B0F2B7"></path>
+                                <polygon id="Rectangle-path" fill="#664E3D" points="39.1 174 55.1 174 55.1 181 39.1 181"></polygon>
+                                <path d="M47.7,131.6 C51.1,131.5 50.8,134.9 55,134.1 C49.5,137.9 44.2,134.6 47.3,131.9 C47.4,131.8 47.6,131.7 47.7,131.6 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M52.5,96.1 C53,97.9 51.7,100.9 49.4,102.3 C48.6,102.2 48.2,101.9 48,101.4 C47.3,99.9 50.3,96.7 52.5,96.1 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M49.4,128.4 C48.6,128.7 47.8,129 47,129.1 C41.9,130.3 38.3,128.6 39.7,125 C43.8,123.1 47.1,123.7 49.4,128.4 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M43.4,87.1 C45.8,88.5 47.2,91.3 46.9,93.5 C46.8,94 46.7,94.5 46.4,94.9 C44.7,96.8 43.7,95.6 43.2,93.5 C42.7,91.7 42.8,89.1 43.4,87.1 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M41.7,99.4 C44.2,100.7 43.6,105.2 41.5,107.1 C41.4,107.2 41.2,107.3 41.1,107.4 C37.9,108.7 38.3,103.4 40.8,100.3 C41.1,100 41.4,99.7 41.7,99.4 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M32.1,135.4 C32.7,134.9 37.9,131.9 42.5,132.6 C42.4,138.3 35.4,137.8 32.1,135.4 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M40.2,96.8 C37.6,101.6 35.3,94.8 30.9,98.1 C32.6,92.3 39.1,92.3 40.2,96.8 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M35.9,77.1 C39.6,79.1 39.6,84.4 37.6,87.1 C37.5,87.2 37.4,87.4 37.3,87.5 C35.8,86.8 35.3,83.7 35.4,80.8 C35.5,79.4 35.7,78.1 35.9,77.1 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M34.4,118.8 C37.5,119.4 37.2,121.6 35.3,123.5 C33.7,125 31.1,126.4 28.3,126.8 C30.8,124.5 30.5,119.4 34.4,118.8 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M29.5,105.2 C30.5,105.5 31,106.2 30.8,107.4 C30.8,110.7 28,109.8 25.1,108.9 C23.2,108.3 21.3,107.7 20.2,108.4 C22.5,106.6 24.9,105.6 26.8,105.2 C27.9,105 28.8,105 29.5,105.2 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M29.2,101.9 C29.6,102.9 29.7,104 29.5,105.2 C28.8,105 27.9,105 26.8,105.2 C25.6,104.4 25.5,102.9 24.5,100.8 C24,99.8 23.4,98.7 22.4,97.4 C25.3,97.3 28.2,99.2 29.2,101.9 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M27.1,85.9 C28.4,87.4 24,91.5 20.3,91.5 C20.1,86.4 23.5,84.4 27.1,85.9 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M19.2,101.7 C21.5,104.2 14.9,105.9 13.2,108.5 C11.6,101.2 15.5,99 19.2,101.7 Z" id="Shape" fill="#B0F2B7"></path>
+                                <polygon id="Rectangle-path" fill="#664E3D" points="12.1 292.5 18.1 292.5 18.1 300.8 12.1 300.8"></polygon>
+                                <path d="M17.9,112.4 C18.4,115.3 17.4,119.2 12.9,121.1 C13.3,119.6 13.7,116.7 14.3,114.4 C15,111.6 16,109.5 17.8,111.6 C17.8,111.9 17.8,112.1 17.9,112.4 Z" id="Shape" fill="#76BD65"></path>
+                                <path d="M7.4,87.5 C11.7,91.8 13.3,95.1 10.5,99.4 C2.1,97.9 9.7,91.8 7.4,87.5 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M1.4,103.7 C5.3,102.4 11.4,101 10.5,104.7 C9.6,107.3 6.8,109.3 1.4,103.7 Z" id="Shape" fill="#B0F2B7"></path>
+                                <path d="M0.6,109.5 C2.4,114.3 10.5,114.4 8,117.7 C5.4,120.9 0.1,116.9 0.6,109.5 Z" id="Shape" fill="#76BD65"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="lines_2_" transform="translate(0.000000, 15.000000)" stroke="#444444" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon id="Rectangle-path" stroke-width="3" points="2.1 142.5 92.1 142.5 92.1 277.5 2.1 277.5"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="3" points="9.1 149.5 85.1 149.5 85.1 175.5 9.1 175.5"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="3" points="9.1 182.5 85.1 182.5 85.1 270.5 9.1 270.5"></polygon>
+                        <rect id="Rectangle-path" stroke-width="3" x="71.1" y="218.5" width="7" height="16"></rect>
+                        <rect id="Rectangle-path" stroke-width="3" transform="translate(47.030700, 162.498200) rotate(-90.000000) translate(-47.030700, -162.498200) " x="43.5307" y="154.4982" width="7" height="16"></rect>
+                        <polyline id="Shape" stroke-width="3" points="67.1 142.5 69.1 135.5 25.1 135.5 27.1 142.5"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="65.1 135.5 69.1 103.5 25.1 103.5 29.1 135.5"></polyline>
+                        <path d="M7.4,72.5 C11.7,76.8 13.3,80.1 10.5,84.4 C2.1,82.9 9.7,76.8 7.4,72.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M10.4,89.6 C9.6,92.3 6.8,94.3 1.4,88.6 C5.3,87.3 11.4,86 10.4,89.6 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M19.3,86.7 C15.6,83.9 11.7,86.2 13.3,93.5 C14.9,90.9 21.5,89.3 19.3,86.7 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M7.9,102.7 C5.4,106 0.1,102 0.5,94.5 C2.4,99.3 10.4,99.4 7.9,102.7 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M17.7,96.6 C18.5,99.6 17.8,104 12.9,106.1 C13.8,102.9 14.4,92.9 17.7,96.6 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M10.5,84.4 C9.8,86.2 9.8,89.5 12.8,89.5" id="Shape" stroke-width="2"></path>
+                        <path d="M30.8,92.5 C35.9,91.9 41,94.3 40.1,103.5" id="Shape" stroke-width="2"></path>
+                        <path d="M25.2,94 C22.7,94.9 20.2,96.2 17.9,97.4" id="Shape" stroke-width="2"></path>
+                        <path d="M7.9,102.7 C8.7,102.7 11,101.3 14.2,99.5" id="Shape" stroke-width="2"></path>
+                        <path d="M30.8,92.5 C30.8,98 23,91.8 20.2,93.5 C25.6,89.4 31.3,89 30.8,92.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M29.5,90.3 C30.3,85.9 26.4,82.2 22.4,82.5 C25.6,86.5 25.1,89.1 26.8,90.3" id="Shape" stroke-width="2"></path>
+                        <path d="M34.4,103.8 C30.5,104.4 30.8,109.5 28.3,111.7 C34.6,111 40,104.8 34.4,103.8 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M39.7,110 C43.7,108.1 47.1,108.7 49.4,113.3 C43.2,115.8 38.1,114.1 39.7,110 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M42.5,117.6 C37.9,116.8 32.6,119.9 32.1,120.4 C35.4,122.8 42.4,123.3 42.5,117.6 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M47.6,116.6 C51.1,116.4 50.8,119.9 55,119.1 C49.3,123 43.8,119.4 47.6,116.6 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M42.5,117.6 C45.5,117.6 50.2,117.1 47,114.1" id="Shape" stroke-width="2"></path>
+                        <path d="M39.7,110 C38,109.7 36,109.2 35.2,108.5" id="Shape" stroke-width="2"></path>
+                        <path d="M58.8,110 C61.5,109.6 65,112.7 65.1,114.5 C61.3,115.7 53.9,112 58.8,110 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M55,98.5 C55,100.8 57.5,102.9 61.6,102.6 C62,97.8 56.7,94.9 55,98.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M41.1,92.5 C43.6,90.9 44.4,85.9 41.7,84.5 C38.4,87.3 37.6,93.9 41.1,92.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M27.1,70.9 C23.6,69.5 20.1,71.4 20.3,76.5 C23.9,76.4 28.3,72.3 27.1,70.9 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M37.3,72.5 C39.6,69.9 39.8,64.1 35.9,62.1 C35.1,65.3 35.1,71.5 37.3,72.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M40.2,81.8 C39.2,77.3 32.7,77.3 30.9,83.1 C35.2,79.8 37.6,86.6 40.2,81.8 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M61.1,78.5 C62.1,75.4 66,75.4 67.1,79.8 C59.9,84.1 54.8,81.9 61.1,78.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M56.3,71.9 C55.4,68 50.2,66.3 47.5,71.4 C50.7,70.8 53.7,74.2 56.3,71.9 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M58.8,74 C59.3,69.2 62.4,67.9 66.4,70 C62.9,70.7 59.1,78.2 58.8,74 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M46.3,80 C47.8,77.7 46.4,73.8 43.4,72.2 C42.1,76.2 43.2,83.5 46.3,80 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M64.4,87.7 C67.6,85.4 71.9,88 71.9,92.4 C67.5,93.1 61.2,90.9 64.4,87.7 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M77.7,89.5 C81.5,89.3 83.8,84.7 83.3,80.9 C79.4,81.8 73.4,90 77.7,89.5 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M80.6,99.1 C83.3,96.7 87.1,94.7 89.1,99.8 C85.1,99.6 77.4,103.6 80.6,99.1 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M73.9,103.8 C72.9,105.9 74.2,109.3 81,107.8 C80.1,105.9 75,101.2 73.9,103.8 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M53.9,87.3 C56.6,86 59.7,87.3 60.7,90.9 C57.1,91.7 49.2,90 53.9,87.3 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M59.5,82.1 C59,83.8 57.8,85.4 55.7,86.8" id="Shape" stroke-width="2"></path>
+                        <path d="M59.8,79.2 C59.7,75.7 57.4,72.6 56.2,71.9" id="Shape" stroke-width="2"></path>
+                        <path d="M43.1,78.6 C39.2,78.4 38.2,75.3 37.6,72.2" id="Shape" stroke-width="2"></path>
+                        <path d="M27.1,70.9 C31.7,66.6 34.1,65.4 35.5,65.8" id="Shape" stroke-width="2"></path>
+                        <path d="M49.4,87.3 C51.6,85.9 53,82.9 52.5,81.1 C49.7,81.9 45.7,86.7 49.4,87.3 Z" id="Shape" stroke-width="2"></path>
+                        <path d="M48,103.5 C45.2,102.4 44.3,100.2 44.4,97.6 C44.5,94.2 46.4,90 47.9,86.4" id="Shape" stroke-width="2"></path>
+                        <path d="M46.9,78.6 C51.1,77.3 50.8,79.6 49.4,83.2" id="Shape" stroke-width="2"></path>
+                        <path d="M41.5,92.1 C42,93.8 42.9,95.6 44.4,97.6 C45.5,99 46.8,100.4 48.5,101.9 C48.7,102 48.8,102.2 49,102.3 C49.5,102.7 50,103.1 50.5,103.5" id="Shape" stroke-width="2"></path>
+                        <path d="M40.2,81.8 C40.8,82.7 40.9,83.9 40.9,85.4" id="Shape" stroke-width="2"></path>
+                        <path d="M29.2,86.9 C37.1,89.6 45,96.8 37.2,103.5" id="Shape" stroke-width="2"></path>
+                        <path d="M19.2,86.7 C20.4,85.9 22.3,85.6 24.5,85.8" id="Shape" stroke-width="2"></path>
+                        <path d="M68.5,92.4 C68.9,95.7 72.2,98.7 77.3,95.2 C74,95.1 74.1,91.8 71.9,92.4" id="Shape" stroke-width="2"></path>
+                        <path d="M69.3,94.6 C66.4,95.7 63,96.8 60.2,98.4" id="Shape" stroke-width="2"></path>
+                        <path d="M56.3,101.3 C55.6,102 55.1,102.7 54.6,103.6" id="Shape" stroke-width="2"></path>
+                        <path d="M76.8,89.5 C76.3,90.8 75.1,91.9 73.5,92.8" id="Shape" stroke-width="2"></path>
+                        <path d="M80.6,99.1 C72.7,108.9 60.3,83.9 49,102.3 C48.9,102.4 48.8,102.6 48.8,102.7 C48.7,102.9 48.5,103.2 48.4,103.5" id="Shape" stroke-width="2"></path>
+                        <path d="M73.9,103.8 C72.7,101.8 64.7,95.2 58.7,95.4" id="Shape" stroke-width="2"></path>
+                        <path d="M49.1,103.5 C49,103.3 48.9,103 48.8,102.7 C48.7,102.4 48.6,102.2 48.6,101.9 C47.5,98 47.3,91.9 52.8,88.2" id="Shape" stroke-width="2"></path>
+                        <path d="M57.5,110.8 C54.2,109.7 49.6,94.4 42.5,103.6" id="Shape" stroke-width="2"></path>
+                        <polyline id="Shape" stroke-width="3" points="91.5 285.8 76.5 285.8 66.5 285.8"></polyline>
+                        <path d="M3.7,285.8 L1,285.8" id="Shape" stroke-width="3"></path>
+                        <polyline id="Shape" stroke-width="3" points="8.7 285.8 12.1 285.8 18.1 285.8 26 285.8"></polyline>
+                        <circle id="Oval" stroke-width="3" cx="159.1" cy="280.8" r="5"></circle>
+                        <rect id="Rectangle-path" stroke-width="3" x="152.1" y="249.8" width="14" height="22"></rect>
+                        <path d="M156.6,276.5 L156.6,271.8" id="Shape" stroke-width="3"></path>
+                        <path d="M161.6,276.5 L161.6,271.8" id="Shape" stroke-width="3"></path>
+                        <path d="M152.1,251.8 L150.1,251.8 C148.4,251.8 147.1,253.1 147.1,254.8 C147.1,256.5 148.4,257.8 150.1,257.8 L152.1,257.8" id="Shape" stroke-width="3"></path>
+                        <rect id="Rectangle-path" stroke-width="3" x="166.1" y="185.8" width="8" height="74"></rect>
+                        <path d="M174.1,251.8 L176.1,251.8 C177.8,251.8 179.1,253.1 179.1,254.8 C179.1,256.5 177.8,257.8 176.1,257.8 L174.1,257.8" id="Shape" stroke-width="3"></path>
+                        <rect id="Rectangle-path" stroke-width="3" x="114" y="143.8" width="50" height="16"></rect>
+                        <rect id="Rectangle-path" stroke-width="3" x="164" y="143.8" width="50" height="16"></rect>
+                        <polyline id="Shape" stroke-width="3" points="114 143.8 108 143.8 108 137.8 214 137.8"></polyline>
+                        <path d="M166.1,213.8 L164.1,213.8 C162.4,213.8 161.1,215.1 161.1,216.8 C161.1,218.5 162.4,219.8 164.1,219.8 L166.1,219.8" id="Shape" stroke-width="3"></path>
+                        <polyline id="Shape" stroke-width="3" points="180.1 213.8 180.1 201.8 174.1 201.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="211 164.8 211 180.8 162 180.8 162 164.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="156 164.8 156 185.8 214 185.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="214 159.8 164 159.8 154 159.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="214 164.8 148 164.8 148 159.8"></polyline>
+                        <circle id="Oval" stroke-width="3" cx="269" cy="280.8" r="5"></circle>
+                        <rect id="Rectangle-path" stroke-width="3" transform="translate(269.071100, 260.777600) rotate(-180.000000) translate(-269.071100, -260.777600) " x="262.0711" y="249.7776" width="14" height="22"></rect>
+                        <path d="M271.5,276.5 L271.5,271.8" id="Shape" stroke-width="3"></path>
+                        <path d="M266.5,276.5 L266.5,271.8" id="Shape" stroke-width="3"></path>
+                        <path d="M276,251.8 L278,251.8 C279.7,251.8 281,253.1 281,254.8 C281,256.5 279.7,257.8 278,257.8 L276,257.8" id="Shape" stroke-width="3"></path>
+                        <rect id="Rectangle-path" stroke-width="3" transform="translate(258.071100, 222.777600) rotate(-180.000000) translate(-258.071100, -222.777600) " x="254.0711" y="185.7776" width="8" height="74"></rect>
+                        <path d="M254,251.8 L252,251.8 C250.3,251.8 249,253.1 249,254.8 C249,256.5 250.3,257.8 252,257.8 L254,257.8" id="Shape" stroke-width="3"></path>
+                        <rect id="Rectangle-path" stroke-width="3" transform="translate(289.005800, 151.777600) rotate(-180.000000) translate(-289.005800, -151.777600) " x="264.0058" y="143.7776" width="50" height="16"></rect>
+                        <rect id="Rectangle-path" stroke-width="3" transform="translate(239.005800, 151.777600) rotate(-180.000000) translate(-239.005800, -151.777600) " x="214.0058" y="143.7776" width="50" height="16"></rect>
+                        <polyline id="Shape" stroke-width="3" points="314.1 143.8 320.1 143.8 320.1 137.8 214.1 137.8"></polyline>
+                        <path d="M262,213.8 L264,213.8 C265.7,213.8 267,215.1 267,216.8 C267,218.5 265.7,219.8 264,219.8 L262,219.8" id="Shape" stroke-width="3"></path>
+                        <path d="M254,213.8 L174.1,213.8" id="Shape" stroke-width="3"></path>
+                        <path d="M254,219.8 L174.1,219.8" id="Shape" stroke-width="3"></path>
+                        <polyline id="Shape" stroke-width="3" points="248 213.8 248 201.8 254 201.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="217.1 164.8 217.1 180.8 266.1 180.8 266.1 164.8"></polyline>
+                        <g id="Group" transform="translate(136.000000, 148.000000)" stroke-width="2">
+                            <circle id="Oval" cx="3" cy="3.8" r="3"></circle>
+                            <circle id="Oval" cx="53" cy="3.8" r="3"></circle>
+                            <circle id="Oval" cx="48" cy="24.8" r="3"></circle>
+                            <circle id="Oval" cx="153.1" cy="3.8" r="3"></circle>
+                            <circle id="Oval" cx="103.1" cy="3.8" r="3"></circle>
+                            <circle id="Oval" cx="108.1" cy="24.8" r="3"></circle>
+                        </g>
+                        <polyline id="Shape" stroke-width="3" points="274 159.8 264 159.8 214 159.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="272 164.8 272 185.8 214 185.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="214.1 164.8 280.1 164.8 280.1 159.8"></polyline>
+                        <path d="M219.1,180.8 L209,180.8" id="Shape" stroke-width="3"></path>
+                        <polygon id="Shape" stroke-width="3" points="144 115.8 124 115.8 125 137.8 143 137.8"></polygon>
+                        <path d="M124,120.8 L144,120.8" id="Shape" stroke-width="2"></path>
+                        <polyline id="Shape" stroke-width="3" points="288 132.8 288 129.8 295 129.8 297.5 129.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="288 137.8 296.9 137.8 308 137.8 308 129.8 301.3 129.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="301.3 129.8 308 129.8 311 129.8 311 121.8 295 121.8 285 121.8 285 129.8 288 129.8 295 129.8 297.5 129.8"></polyline>
+                        <path d="M295,121.8 L295,129.8" id="Shape" stroke-width="3"></path>
+                        <path d="M230.6,137.8 C237.5,137.8 241.8,127.4 267.1,133.8 C292.4,140.2 299.5,127.9 300.9,125.8 C302.8,129.8 299.3,137.8 297,137.8" id="Shape" stroke-width="3"></path>
+                        <path d="M291,133.8 C282.7,130.6 271.9,129.3 260.1,132.4" id="Shape" stroke-width="3"></path>
+                        <g id="Group" transform="translate(115.000000, 84.000000)">
+                            <rect id="Rectangle-path" stroke-width="3.00007267" transform="translate(11.806470, 16.305660) rotate(-17.103150) translate(-11.806470, -16.305660) " x="4.80630043" y="13.8055994" width="14.0003391" height="5.00012112"></rect>
+                            <polygon id="Shape" stroke-width="3" points="14.2 0.4 0.8 4.5 5.3 15.7 16.8 12.1"></polygon>
+                            <path d="M5.3,3.1 L6.4,6.7" id="Shape" stroke-width="2"></path>
+                            <polyline id="Shape" stroke-width="3" points="13.8 31.8 10 19.5 14.8 18 19.1 31.8"></polyline>
+                        </g>
+                        <g id="Group" transform="translate(137.000000, 94.000000)">
+                            <path d="M2.4,8.9 C-0.1,8.5 1.6,2.5 3.8,0 C5.7,4 7.2,9.7 2.4,8.9 Z" id="Shape" stroke-width="2"></path>
+                            <path d="M2.9,9.4 L0.9,21.8" id="Shape" stroke-width="3"></path>
+                        </g>
+                        <g id="Group" transform="translate(141.000000, 94.000000)">
+                            <path d="M3,9 C0.6,8.4 2.7,2.5 5.2,0.2 C6.7,4.3 7.6,10.1 3,9 Z" id="Shape" stroke-width="2"></path>
+                            <path d="M3.4,9.5 L0.4,21.8" id="Shape" stroke-width="3"></path>
+                        </g>
+                        <polyline id="Shape" stroke-width="3" points="334.1 285.8 319.1 285.8 310.1 285.8"></polyline>
+                        <polyline id="Shape" stroke-width="3" points="407.1 285.8 392.1 285.8 382.1 285.8"></polyline>
+                        <polygon id="Rectangle-path" stroke-width="3" points="12.1 277.5 18.1 277.5 18.1 285.8 12.1 285.8"></polygon>
+                        <polygon id="Rectangle-path" stroke-width="3" points="76.1 277.5 82.1 277.5 82.1 285.8 76.1 285.8"></polygon>
+                        <path d="M180.8,285.8 L139.5,285.8" id="Shape" stroke-width="3"></path>
+                        <path d="M133.5,286.8 L129.5,286.8" id="Shape" stroke-width="3"></path>
+                        <path d="M299,285.8 L254.5,285.8" id="Shape" stroke-width="3"></path>
+                        <path d="M248.5,285.8 L244.5,285.8" id="Shape" stroke-width="3"></path>
+                    </g>
+                </g>
+            </g>
+            <path d="M485.518076,206.032559 L485.518076,208.980412 L498.203208,201.116727 L496.870137,199.469882 L496.249714,199.828071 L486.436134,185.706375 L486.436134,177.513321 L482.701021,177.84269 L482.701021,176.533449 C472.849713,165.392542 471.831046,177.84269 473.86838,181.449281 C475.905715,185.055871 479.632443,187.690823 479.632443,187.690823 C481.728467,189.407659 485.34201,202.376563 486.226532,205.629082 L485.518076,206.032559 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <polygon id="Rectangle" fill="url(#linearGradient-2)" opacity="0.638578869" points="96.6408 388 568.964929 388 665 472.5 7 472.5"></polygon>
+            <path d="M567.289865,198.621007 L565.55855,197.468216 L565.483093,197.468216 L563.911076,192.881752 L563.340957,192.902338 L561.387464,189.069306 C563.070876,188.252689 564.59598,187.153343 565.893913,185.820905 C568.945723,182.864818 571.729242,177.792535 571.041746,169.21659 C570.899216,167.442115 573.879761,162.847417 564.959087,160.459492 C564.415163,155.365171 560.652695,151.164714 555.577288,149.985558 C552.129883,149.14445 548.569614,148.838825 545.025908,149.079793 C538.180297,149.652072 532.177287,154.592607 532.177287,161.340554 C532.177287,161.340554 530.110608,161.966355 529.997423,168.623726 L530.261522,168.623726 C527.679115,178.865425 534.034053,189.225278 544.459982,191.770132 L544.577359,192.461807 C544.698928,192.527681 544.82469,192.58532 544.950451,192.64296 L546.208065,195.862542 L542.145972,198.258701 L533.996635,198.522197 C530.239871,198.649423 526.535674,199.428593 523.055394,200.823662 C515.593552,203.767398 502.007131,206.591737 502.007131,206.591737 L497.676747,200.510762 L485,209.090824 L493.342172,221.602729 C494.675258,222.593484 496.133711,223.410011 497.680939,224.031825 L497.718668,224.031825 L497.76478,224.031825 L498.142064,224.180041 C500.204882,224.965209 502.340192,225.552574 504.518167,225.933931 C509.548622,226.926155 517.094305,227.663118 526.538985,226.267417 L526.471912,226.246832 L526.706667,226.218012 L529.54049,282.622452 L529.72494,282.622452 L528.370909,292.281198 C515.019242,308.696126 511.34701,356.219954 511.34701,356.219954 L531.104123,412.010945 C530.731031,413.604268 529.230278,417.046174 523.197924,419.458802 C515.111467,422.690735 528.932643,425.033372 528.932643,425.033372 L541.508781,421.241511 C542.548409,423.300067 548.387929,426.013245 548.387929,426.013245 L573.410252,425.358624 L573.410252,413.22961 L573.074888,413.22961 C573.074888,413.22961 575.409858,391.277167 573.741424,386.690704 C572.072989,382.10424 573.741424,359.822428 573.741424,359.822428 L575.074494,312.31095 C579.744434,303.138024 579.744434,295.274339 576.076393,287.735906 C574.971701,285.446238 574.26332,282.991745 573.98037,280.47332 C574.986461,278.147151 575.409858,274.326471 574.399575,268.076694 C571.39807,249.492049 581.073312,230.8827 581.073312,230.8827 C583.397232,218.396087 577.990193,205.74031 567.289865,198.621007 Z M552.366181,416.05395 L549.549126,406.127591 L548.907743,406.304627 L536.700504,355.890585 L548.044181,332.6289 L548.044181,354.910713 L554.382555,398.490348 L554.382555,413.22961 C553.98072,414.331734 553.28423,415.307308 552.366181,416.05395 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+            <path d="M486.912014,181.290123 L486.912014,189.174394 L496.457303,202.909081 L486.912014,209.006524 C486.912014,209.006524 482.669663,192.949786 480.384998,191.060031 C480.384998,191.060031 476.792414,188.540358 474.834729,185.077867 C473.959578,183.530017 470.905743,178.749818 471.7,176.588593 C471.785087,176.357065 475.590921,182.082177 475.739364,181.9 C476.131519,181.418727 469.820198,172.558458 470.231894,171.9 C470.381687,171.660424 471.47874,171.778344 472.402606,172.9 C474.305593,175.210397 476.794294,179.808168 478.008698,180.5 C478.914534,181.016045 472.981691,170.332164 473.490375,170.103699 C473.768592,169.978743 474.329739,169.983938 475,170.8 C476.689491,172.857004 479.296392,177.507767 481.461694,179.392828 C482.145751,179.988352 479.057935,170.103699 479.6,170.103699 C480.189177,170.286692 480.546626,170.518792 480.672346,170.8 C481.549684,172.762415 482.696822,175.895748 484.113761,180.2 C484.183009,181.306431 484.478422,181.539764 485,180.9 C485.339583,180.48347 484.969724,176.832783 485.4,175.8 C485.553734,175.430995 486.048956,175.764329 486.885667,176.8 L486.912014,181.290123 Z" id="Shape" fill="#FDA57D" fill-rule="nonzero"></path>
+            <path d="M562.756834,201.903086 L558.983992,194.492284 C558.757851,194.04889 558.306144,193.759427 557.801835,193.734735 L543.473422,193.001889 C542.999344,192.977491 542.544971,193.19068 542.266405,193.568214 C541.987838,193.945747 541.923027,194.436194 542.094239,194.871058 L545.795815,204.270426 C546.021185,204.841589 546.604051,205.19748 547.225303,205.143254 L561.654326,203.883417 C562.109791,203.834985 562.512321,203.570777 562.732106,203.175999 C562.951891,202.78122 562.961127,202.305811 562.756834,201.903086 Z" id="Shape" fill="#FDA57D" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="561.59932 198 564.034899 205.019677 539 204.138615 548.616554 198.469351"></polygon>
+            <polygon id="Shape" fill="#EDEEF9" fill-rule="nonzero" points="498.182086 203.572737 496.89932 202 486 208.295065 486 211.131755"></polygon>
+            <path d="M570.503801,274 C570.503801,274 568.671877,281.167893 572.18062,288.409894 C575.689362,295.651894 575.70613,303.206796 571.220641,312.021533 L569.950451,357.672076 C569.950451,357.672076 568.34909,379.081061 569.950451,383.486371 C571.551813,387.891682 569.309068,408.987766 569.309068,408.987766 L551.358727,408.987766 L551.358727,394.824899 L545.267684,352.953865 L545.267684,331.544881 L534.368364,353.896684 L546.864853,405.529391 L530.515874,412.141474 L510,354.213702 C510,354.213702 513.525511,308.563159 526.34898,292.823438 L528.755214,275.663313 L570.503801,274 Z" id="Shape" fill="#252A62" fill-rule="nonzero"></path>
+            <path d="M570.802364,420.647311 L570.802364,409 L552.529235,409 C552.529235,409 551.246469,413.722328 542.912681,414.665147 C534.578894,415.607965 546.777748,421.277229 546.777748,421.277229 L570.802364,420.647311 Z" id="Shape" fill="#333333" fill-rule="nonzero"></path>
+            <path d="M551.945309,414.223249 L548.763546,403 L531.156952,407.812904 C531.156952,407.812904 531.211449,412.699917 523.439395,415.80422 C515.667342,418.908522 528.951936,421.156466 528.951936,421.156466 L551.945309,414.223249 Z" id="Shape" fill="#333333" fill-rule="nonzero"></path>
+            <path d="M530.102508,276.646845 L571.846903,275 C571.331126,277.443832 571.224929,279.953957 571.5325,282.431388 C569.620927,286.844933 565.525298,285.634501 565.525298,285.634501 L529,284.531115 L530.102508,276.646845 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M563.401939,201 L565.078757,202.107503 C575.366166,208.950459 580.561981,221.119006 578.321431,233.121711 C578.321431,233.121711 569.023473,250.985862 571.911793,268.850013 C574.800112,286.714164 565.502154,283.963933 565.502154,283.963933 L528.796599,282.85643 L526.071769,228.654644 C526.071769,228.654644 503.954533,231.746596 494.015192,224.187577 L486,212.165609 L498.182086,203.931384 L502.34898,209.76945 C502.34898,209.76945 515.403011,207.06039 522.57141,204.207231 C525.912671,202.865357 529.469139,202.114092 533.076678,201.988107 L563.401939,201 Z" id="Shape" fill="#32D061" fill-rule="nonzero"></path>
+            <path d="M562.576532,289 C562.576532,289 564.819277,300.017393 552,318.280904" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M525.796541,229.035229 C525.796541,229.035229 510.411732,224 503.679306,224 C496.94688,224 498.070348,226.857276 498.070348,226.857276 C498.070348,226.857276 508.806178,231.550784 525.796541,229.035229 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M542.628942,193.001773 L548.753521,193.722267 C548.946355,193.74697 549.122421,193.985762 549.227222,194.356302 C547.881575,196.740111 546.196373,198.164632 544.368641,198.164632 C543.715414,198.156582 543.07551,197.982086 542.511564,197.658227 L542.042055,194.875059 C541.882758,193.944591 542.197161,192.952367 542.628942,193.001773 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <ellipse id="Oval" fill="#FDA57D" fill-rule="nonzero" cx="547.696526" cy="178.362321" rx="18.6965256" ry="18.3623215"></ellipse>
+            <path d="M532.000014,167.546657 L532.943225,168.394783 C533.75821,169.127078 534.135968,170.217431 533.944875,171.285936 C533.753783,172.354441 533.020309,173.253103 532.000014,173.668804 C532.000014,173.668804 540.384106,181.903029 541.541111,183.422243 C542.698116,184.941458 541.348277,188.967994 541.348277,188.967994 C541.348277,188.967994 537.6467,195.662418 557.122946,194.130853 C557.122946,194.130853 569.97576,191.454729 568.613345,174.430469 C568.475007,172.725985 571.338175,168.308323 562.769633,166.015092 C562.24867,161.11953 558.633858,157.082214 553.756733,155.948752 C550.445021,155.140104 547.024829,154.845597 543.620366,155.075924 C537.038131,155.640191 531.990221,161.057509 532.000014,167.546657 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M526.702,160 L527.1,161.2 C527.1,161.2 529.113185,167.456081 529,173.854074 L531.821247,173.664687 C531.821247,173.664687 538.352455,190.820694 537.664959,188.585102 C535.149732,180.350877 540.180187,181.890677 541.366536,183.422243 C542.552885,184.953809 541.173702,188.967994 541.173702,188.967994 C541.173702,188.967994 537.476317,195.650067 556.948371,194.130853 C559.086018,194.5 562.171637,192.950214 565.481844,186.316268 C566.898355,183.477453 568.847061,179.532332 568.43877,174.430469 C568.300432,172.725985 571.1636,168.308323 562.595057,166.015092 C562.074095,161.11953 559.977125,153.933462 555.1,152.8 C551.788287,151.991353 546.904463,151.390312 543.5,151.620639 C536.918488,152.172332 526.702,153.515548 526.702,160 Z" id="Shape" fill="#252A62" fill-rule="nonzero"></path>
+            <text id="Menjadi-Pintar-Bersa" font-family="Helvetica" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="198" y="429.868245">Menjadi Pintar Bersama Kita Pintar</tspan>
+            </text>
+            <path d="M571.302364,262 C568.654539,269.2 565.108856,274 560.665314,276.4 C556.221771,278.8 549,280.833333 539,282.5 L568.123207,281.7 L571.302364,262 Z" id="Path-2" fill="#25A049"></path>
+            <polygon id="Path-3" fill="#25A049" points="526 230 537 249 527.1 239"></polygon>
+        </g>
+    </g>
+</svg>
